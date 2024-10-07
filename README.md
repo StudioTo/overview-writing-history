@@ -26,9 +26,8 @@
   Adobe Font Folder  
 # Ve
   Adobe Font Folder  
-# VIe
-# Moyen-Âge
-  Adobe Font Folder  
+# VIe Moyen-Âge
+  Abc
 # VIIe
   Adobe Font Folder  
 # VIIIe
