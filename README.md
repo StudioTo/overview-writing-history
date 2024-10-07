@@ -1,22 +1,21 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY 👀
   Timeline de l'histoire de l'écriture
   
-# -2000
+# -2000: Pré-Histoire
   Adobe Font Folder
 #
 #
-# Pré-Histoire
 # […]
   Adobe Font Folder
-# -1100
+# -1100: Antiquité Greco-Romaine
   Adobe Font Folder  
-# -500
+# -700: 
   Adobe Font Folder  
 # -300
   Adobe Font Folder  
 # -100
   Adobe Font Folder  
-# Ier
+# Ier: Empire Romain
   Adobe Font Folder  
 # IIe
   Adobe Font Folder  
@@ -26,40 +25,35 @@
   Adobe Font Folder  
 # Ve
   Adobe Font Folder  
-# VIe Moyen-Âge
+# VIe: Moyen-Âge
   Abc
 # VIIe
   Adobe Font Folder  
-# VIIIe
+# VIIIe: Roman
   Adobe Font Folder  
 # IXe
   Adobe Font Folder  
 # Xe
   Adobe Font Folder  
-# XIe
+# XIe: 
   Adobe Font Folder  
-# XIIe
+# XIIe: Gothique
   Adobe Font Folder
 # XIIIe
   Adobe Font Folder
 # XIVe
   Adobe Font Folder
-# XVe
+# XVe: Renaissance
   Adobe Font Folder
-# XVIe
+# XVIe: Baroque
   Adobe Font Folder
-# 1800
-# 
-  1830
-#
-  1880
-# XVIIe
+# XVIIe: Classicisme
   Adobe Font Folder
-# XVIIIe
+# XVIIIe: Révolution Industrielle
   Adobe Font Folder
-# XIXe
+# XIXe: Modernisme
   Adobe Font Folder
-# XXe
+# XXe: Post-Modernisme
   Adobe Font Folder
 # XIe
   Adobe Font Folder
