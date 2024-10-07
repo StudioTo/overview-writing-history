@@ -2,7 +2,7 @@
   Timeline de l'histoire de l'écriture
   
 # -2000
-  ##### Adobe Font Folder
+  Adobe Font Folder
 #
 #
 #
@@ -51,7 +51,8 @@
 # 1700
   Adobe Font Folder
 # 1800
-  Adobe Font Folder
+# 1830
+# 1880
 # 1900
   Adobe Font Folder
 # 2000
