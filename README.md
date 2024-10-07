@@ -1,4 +1,4 @@
-# 🕰️ OVERVIEW OF WRITING HISTORY 👀
+# 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
   
 # -2000: Pré-Histoire
