@@ -1,6 +1,12 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY 👀
   Timeline de l'histoire de l'écriture
-
+  
+# -2000
+  Adobe Font Folder
+# […]
+  Adobe Font Folder
+# -1100
+  Adobe Font Folder  
 # -500
   Adobe Font Folder  
 # -300
