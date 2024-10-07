@@ -5,7 +5,7 @@
   Adobe Font Folder
 #
 #
-#
+# Pré-Histoire
 # […]
   Adobe Font Folder
 # -1100
@@ -16,50 +16,53 @@
   Adobe Font Folder  
 # -100
   Adobe Font Folder  
-# 0
+# Ier
   Adobe Font Folder  
-# 100
+# IIe
   Adobe Font Folder  
-# 200
+# IIIe
   Adobe Font Folder  
-# 300
+# IVe
   Adobe Font Folder  
-# 400
+# Ve
   Adobe Font Folder  
-# 500
+# VIe
+# Moyen-Âge
   Adobe Font Folder  
-# 600
+# VIIe
   Adobe Font Folder  
-# 700
+# VIIIe
   Adobe Font Folder  
-# 800
+# IXe
   Adobe Font Folder  
-# 900
+# Xe
   Adobe Font Folder  
-# 1000
+# XIe
   Adobe Font Folder  
-# 1200
-  Adobe Font Folder  
-# 1300
+# XIIe
   Adobe Font Folder
-# 1400
+# XIIIe
   Adobe Font Folder
-# 1500
+# XIVe
   Adobe Font Folder
-# 1600
+# XVe
   Adobe Font Folder
-# 1700
+# XVIe
   Adobe Font Folder
 # 1800
 # 
   1830
 #
   1880
-# 1900
+# XVIIe
   Adobe Font Folder
-# 2000
+# XVIIIe
   Adobe Font Folder
-# 2100
+# XIXe
+  Adobe Font Folder
+# XXe
+  Adobe Font Folder
+# XIe
   Adobe Font Folder
 
 
