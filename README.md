@@ -51,8 +51,10 @@
 # 1700
   Adobe Font Folder
 # 1800
-# 1830
-# 1880
+# 
+  1830
+#
+  1880
 # 1900
   Adobe Font Folder
 # 2000
