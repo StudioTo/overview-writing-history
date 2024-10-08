@@ -10,19 +10,21 @@ Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directi
 | Grotte d’El Castille, Espagne              |
 
 # -XXXXXX: Pictogrammes
-figuration du familier (nature, personnes, animaux, objets)
+Figuration du familier (nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | Étiquettes pictographiques en Mésopotamie (Syrie)                            | Simplification de la représentation                                          |
   
-# -XXXXXX: Idéogrammes: associations de pictogrammes (qui crée un sens nouveau).
+# -XXXXXX: Idéogrammes
+Associations de pictogrammes (qui crée un sens nouveau).
   
 |![](/links/overview-writing-history_012.jpg)                                  |![](/links/overview-writing-history_013.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | The Great Gallery (Horseshoe Canyon) aux Etats-Unis                          | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
-# -XXXXXX: Phonogrammes: formes qui représentent les sons.
+# -XXXXXX: Phonogrammes
+Formes qui représentent les sons.
   
 |![](/links/overview-writing-history_014.jpg)                                  |![](/links/overview-writing-history_015.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
