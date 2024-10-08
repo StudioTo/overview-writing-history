@@ -14,34 +14,21 @@
 |![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
-
-|![](/links/Overview_Writing_History_9.jpg)|
-|:------------------------------------------:|
-| Solarized dark                             |
-
-#
-  **-XXXXXX:** Pictogrammes: simplification de la représentation.
   
-  ![](/links/Overview_Writing_History_10.jpg)
-  <sub>Hiéroglyphes, Égypte</sub>
-#
-  **-XXXXXX:** Pictogrammes: lexique de symboles.
-  
-  ![](/links/Overview_Writing_History_11.jpg)
-  <sub>Hiéroglyphes, Égypte</sub>
 #
   **-XXXXXX:** Idéogrammes: associations de pictogrammes (qui crée un sens nouveau).
   
-  ![](/links/Overview_Writing_History_12.jpg)
-  <sub>The Great Gallery (Horseshoe Canyon), Etats-Unis</sub>
-# 
-  ![](/links/Overview_Writing_History_13.jpg)
-  <sub>7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs</sub>
+|![](/links/overview-writing-history_012.jpg)                                  |![](/links/overview-writing-history_013.jpg)                                  |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
+
 #
   **-XXXXXX:** Phonogrammes: formes qui représentent les sons.
   
-  ![](/links/Overview_Writing_History_14.jpg)
-  <sub>Tablette administrative cunéiforme en Mésopotamie (Syrie)</sub>
+|![](/links/overview-writing-history_014.jpg)                                  |![](/links/overview-writing-history_015.jpg)                                  |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
+
 # 
   **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
   
