@@ -21,7 +21,7 @@ Associations de pictogrammes (qui crée un sens nouveau).
   
 |![](/links/overview-writing-history_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| The Great Gallery (Horseshoe Canyon) aux Etats-Unis                                       |
+| The Great Gallery (Horseshoe Canyon), Etats-Unis                                       |
 |![](/links/overview-writing-history_013.jpg)                                               |
 | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
