@@ -1,14 +1,14 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
 
-# **-30000:** Premières traces écrites  
+# ~30000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-# -4000: Pictogrammes
+# ~4000: Pictogrammes
 Symboles qui représentent les choses familières (nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |
@@ -19,7 +19,7 @@ Symboles qui représentent les choses familières (nature, personnes, animaux, o
 |:----------------------------------------------------------------------------:|
 | Simplification de la représentation                                          |
   
-# -XXXXXX: Idéogrammes
+# ~3200: Idéogrammes
 Associations de pictogrammes (qui crée un sens nouveau).
 
 |![](/links/overview-writing-history_012.jpg)                                               |
@@ -30,7 +30,7 @@ Associations de pictogrammes (qui crée un sens nouveau).
 |:-----------------------------------------------------------------------------------------:|
 | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
-# -XXXXXX: Phonogrammes
+# ~3000: Phonogrammes
 Formes qui représentent les sons.
   
 |![](/links/overview-writing-history_014.jpg)                                  |
@@ -41,14 +41,14 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -3500: Hiéroglyphes
+# ~2600: Hiéroglyphes
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
   
 |![](/links/overview-writing-history_022.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
-# -3500: Cunéiformes
+# ~2400: Cunéiformes
 L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history_018.jpg)                                               |
@@ -59,19 +59,19 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -1200: Inventiont de l'Alphabet 🔥
+# ~1200: Inventiont de l'Alphabet 🔥
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 |![](/links/overview-writing-history_023.jpg)|
 |:------------------------------------------:|
-| Grotte d’El Castille, Espagne              |
+| «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
-# -1100: Antiquité Grecque
+# ~1100: Antiquité Grecque
   Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
   
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
-| Grotte d’El Castille, Espagne              |
+| «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
   
 # -700: 
   Adobe Font Folder  
