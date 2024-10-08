@@ -11,12 +11,12 @@
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
-|![](/links/Overview_Writing_History_6.jpg)|
+![](/links/Overview_Writing_History_6.jpg)
+
 |:------------------------------------------:|
 | Solarized dark                             |
 
-![](/links/Overview_Writing_History_9.jpg)
-
+|![](/links/Overview_Writing_History_9.jpg)|
 |:------------------------------------------:|
 | Solarized dark                             |
 
