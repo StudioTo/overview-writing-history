@@ -66,7 +66,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-# -1100: Antiquité Greco-Romaine
+# -1100: Antiquité Grecque
   Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
   
 |![](/links/overview-writing-history_028.jpg)|
