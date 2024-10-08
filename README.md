@@ -7,7 +7,11 @@
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
   <sub>Grotte d’El Castille, Espagne</sub>
 #
-  Figuration du contexte familier: chevaux et mains en négatif
+  **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
+  
+  ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
+  <sub>Grotte d’El Castille, Espagne</sub>
+#
 # […]
   Adobe Font Folder
 # -1100
