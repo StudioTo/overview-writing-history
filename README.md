@@ -1,14 +1,14 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
 
-# **-30'000:** Premières traces écrites  
+# **-30000:** Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-# -XXXXXX: Pictogrammes
+# -4000: Pictogrammes
 Symboles qui représentent les choses familières (nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |
