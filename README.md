@@ -6,7 +6,7 @@
   
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
   <sub>Grotte de Pech-Merle, France</sub>
-  
+#
   Le **dessin** est le premier degré de notre écriture actuelle. Peut-être pour compter ou marquer un lieu?
   
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
