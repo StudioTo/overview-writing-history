@@ -25,8 +25,10 @@
   **-XXXXXX:** Idéogrammes: associations de pictogrammes (qui crée un sens nouveau).
   
   ![](/links/Overview_Writing_History_12.jpg)
-  ![](/links/Overview_Writing_History_13.jpg)
   <sub>The Great Gallery (Horseshoe Canyon), Etats-Unis</sub>
+  
+  ![](/links/Overview_Writing_History_13.jpg)
+  <sub>7 tribus amérindiennes réunies pour droit de pêche dans quatre lacs</sub>
 #
 # -1100
 # Antiquité Greco-Romaine
