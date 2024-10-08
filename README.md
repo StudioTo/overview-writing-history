@@ -32,6 +32,16 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | Tablette administrative cunéiforme en Mésopotamie (Syrie)                    | L’«alpha» qui acquiert la valeur phonétique «a»                                           |
 
+# -1200: Inventiont de l'Alphabet 🔥
+
+# -1200: Cunéiformes
+Formes qui représentent les sons.
+  
+|![](/links/overview-writing-history_018.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| The Great Gallery (Horseshoe Canyon), Etats-Unis                                       |
+|![](/links/overview-writing-history_019.jpg)                                               |
+| 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
 # 
 # -1100
