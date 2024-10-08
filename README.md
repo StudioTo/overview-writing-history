@@ -2,7 +2,8 @@
   Timeline de l'histoire de l'écriture
   
 # Pré-Histoire
-# **-30'000:** Premières traces écrites  Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
+# **-30'000:** Premières traces écrites  
+### Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_007.jpg)|
 |:------------------------------------------:|
