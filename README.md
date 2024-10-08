@@ -9,7 +9,7 @@
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
-  ![](/links/Overview_Writing_History_9_edit.jpg)
+  ![](/links/Overview_Writing_History_9_edit.png)
   <sub>Étiquettes pictographiques en Mésopotamie (Syrie)</sub>
 #
   **-XXXXXX:** Pictogrammes: simplification de la représentation.
