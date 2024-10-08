@@ -33,6 +33,7 @@ Formes qui représentent les sons.
 | Tablette administrative cunéiforme en Mésopotamie (Syrie)                    | L’«alpha» qui acquiert la valeur phonétique «a»                                           |
 
 # -1200: Inventiont de l'Alphabet 🔥
+Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 # -1200: Cunéiformes
 Les pictogrammes évoluent en phonogrammes.
