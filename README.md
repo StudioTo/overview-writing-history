@@ -6,13 +6,15 @@
 
 ![](/links/Overview_Writing_History_9.jpg)  |  ![](/links/Overview_Writing_History_9.jpg)
 :-------------------------:|:-------------------------:
- <sub>Solarized dark</sub>            |   <sub>Solarized dark</sub>
+ Solarized dark            |   Solarized dark
 
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
-  ![](/links/Overview_Writing_History_9.jpg)
-  <sub>Étiquettes pictographiques en Mésopotamie (Syrie)</sub>
+| ![](/links/Overview_Writing_History_9.jpg) |
+|--------------------------------------------|
+| <sub>Solarized dark</sub>                  |
+
 #
   **-XXXXXX:** Pictogrammes: simplification de la représentation.
   
