@@ -2,7 +2,7 @@
   Timeline de l'histoire de l'écriture
   
 # -22000: Pré-Histoire
-  Première apparition de traces écrites: chevaux et mains en négatif
+  Première apparition de traces écrites: chevaux et mains en négatif. Peut-être pour marquer une appartenance ou comptablisiler des biens?
   
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
   <sub>Grotte de Pech-Merle, France</sub>
