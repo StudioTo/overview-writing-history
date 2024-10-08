@@ -13,32 +13,23 @@
   
 |![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
+| Étiquettes pictographiques en Mésopotamie (Syrie)                            | Simplification de la représentation                                          |
   
 #
   **-XXXXXX:** Idéogrammes: associations de pictogrammes (qui crée un sens nouveau).
   
 |![](/links/overview-writing-history_012.jpg)                                  |![](/links/overview-writing-history_013.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
+| The Great Gallery (Horseshoe Canyon) aux Etats-Unis                          | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
 #
   **-XXXXXX:** Phonogrammes: formes qui représentent les sons.
   
 |![](/links/overview-writing-history_014.jpg)                                  |![](/links/overview-writing-history_015.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
+| Tablette administrative cunéiforme en Mésopotamie (Syrie)                    | L’«alpha» qui acquiert la valeur phonétique «a»                                           |
 
-# 
-  **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
-  
-  ![](/links/Overview_Writing_History_15.jpg)
-  <sub>L’«alpha» qui acquiert la valeur phonétique «a»</sub>
-#
-  **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
-  
-  ![](/links/Overview_Writing_History_16.jpg)
-  <sub>Forteresse de Van, Turquie</sub>
+
 # 
 # -1100
 # Antiquité Greco-Romaine
