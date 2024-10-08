@@ -23,7 +23,6 @@ Associations de pictogrammes (qui crée un sens nouveau).
 |:-----------------------------------------------------------------------------------------:|
 | The Great Gallery (Horseshoe Canyon) aux Etats-Unis                                       |
 |![](/links/overview-writing-history_013.jpg)                                               |
-|:-----------------------------------------------------------------------------------------:|
 | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
 # -XXXXXX: Phonogrammes
