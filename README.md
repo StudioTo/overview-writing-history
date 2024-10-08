@@ -19,11 +19,28 @@ Symboles qui représentent les choses familières (nature, personnes, animaux, o
 # -XXXXXX: Idéogrammes
 Associations de pictogrammes (qui crée un sens nouveau).
   
-|![](/links/overview-writing-history_012.jpg)                                               |
-|:-----------------------------------------------------------------------------------------:|
-| The Great Gallery (Horseshoe Canyon), Etats-Unis                                       |
-|![](/links/overview-writing-history_013.jpg)                                               |
-| 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <td style="padding: 0; border: none;">
+            <img src="/links/overview-writing-history_012.jpg" alt="The Great Gallery (Horseshoe Canyon), Etats-Unis" style="width: 100%; height: auto;">
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0; border: none;">
+            The Great Gallery (Horseshoe Canyon), Etats-Unis
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0; border: none;">
+            <img src="/links/overview-writing-history_013.jpg" alt="7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs." style="width: 100%; height: auto;">
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0; border: none;">
+            7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.
+        </td>
+    </tr>
+</table>
 
 # -XXXXXX: Phonogrammes
 Formes qui représentent les sons.
