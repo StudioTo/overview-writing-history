@@ -41,14 +41,14 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -1200: Hiéroglyphes
+# -3500: Hiéroglyphes
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
   
 |![](/links/overview-writing-history_022.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
-# -1200: Cunéiformes
+# -3500: Cunéiformes
 L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history_018.jpg)                                               |
