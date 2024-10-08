@@ -2,12 +2,16 @@
   Timeline de l'histoire de l'écriture
   
 # Pré-Histoire
-  **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?  
+  **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
+  
   ![](/links/Overview_Writing_History_7.jpg)
   <sub>Grotte d’El Castille, Espagne</sub>
 #
-# […]
-  Adobe Font Folder
+  **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
+  
+  ![](/links/Overview_Writing_History_9.jpg)
+  <sub>Étiquettes pictographiques en Mésopotamie (Syrie) </sub>
+#
 # -1100
 # Antiquité Greco-Romaine
   Adobe Font Folder  
