@@ -4,20 +4,9 @@
 # Pré-Histoire
   **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none; text-align: center;">
-    <img src="links/test.jpg" alt="Image 1" width="300"/>
-    <br>
-    <p style="text-align: center;">Légende de l'image 1</p>
-</td>
-<td style="border: none; text-align: center;">
-    <img src="links/test.jpg" alt="Image 2" width="300"/>
-    <br>
-    <p style="text-align: center;">Légende de l'image 2</p>
-</td>
-</tr>
-</table>
+![](/links/Overview_Writing_History_9.jpg)  |  ![](/links/Overview_Writing_History_9.jpg)
+:-------------------------:|:-------------------------:
+Solarized dark             |  Solarized Ocean
 
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
