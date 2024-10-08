@@ -10,12 +10,23 @@
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
   ![](/links/Overview_Writing_History_9.jpg)
-  <sub>Étiquettes pictographiques en Mésopotamie (Syrie) </sub>
+  <sub>Étiquettes pictographiques en Mésopotamie (Syrie)</sub>
 #
   **-XXXXXX:** Pictogrammes: simplification de la représentation.
   
   ![](/links/Overview_Writing_History_10.jpg)
-  <sub>Étiquettes pictographiques en Mésopotamie (Syrie) </sub>
+  <sub>Hiéroglyphes, Égypte</sub>
+#
+  **-XXXXXX:** Pictogrammes: lexique de symboles.
+  
+  ![](/links/Overview_Writing_History_11.jpg)
+  <sub>Hiéroglyphes, Égypte</sub>
+#
+  **-XXXXXX:** Idéogrammes: associations de pictogrammes (qui crée un sens nouveau).
+  
+  ![](/links/Overview_Writing_History_12.jpg)
+  ![](/links/Overview_Writing_History_13.jpg)
+  <sub>The Great Gallery (Horseshoe Canyon), Etats-Unis</sub>
 #
 # -1100
 # Antiquité Greco-Romaine
