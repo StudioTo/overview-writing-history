@@ -37,7 +37,7 @@
 # 
   **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
   
-  ![](/links/Overview_Writing_History_14.jpg)
+  ![](/links/Overview_Writing_History_15.jpg)
   <sub>l’«alpha» qui acquiert la valeur phonétique «a»</sub>
 # 
 # -1100
