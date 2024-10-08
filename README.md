@@ -13,7 +13,11 @@
   
 | ![](/links/Overview_Writing_History_9.jpg) |
 |--------------------------------------------|
-| <sub>Solarized dark</sub>                  |
+| Solarized dark                             |
+
+| ![](/links/Overview_Writing_History_9.jpg) |
+|--------------------------------------------|
+| Solarized dark                             |
 
 #
   **-XXXXXX:** Pictogrammes: simplification de la représentation.
