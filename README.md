@@ -35,13 +35,13 @@ Formes qui représentent les sons.
 # -1200: Inventiont de l'Alphabet 🔥
 
 # -1200: Cunéiformes
-Formes qui représentent les sons.
+Les pictogrammes évoluent en phonogrammes.
   
 |![](/links/overview-writing-history_018.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| The Great Gallery (Horseshoe Canyon), Etats-Unis                                       |
+| Forteresse de Van, Turquie                                      |
 |![](/links/overview-writing-history_019.jpg)                                               |
-| 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
 
 # 
 # -1100
