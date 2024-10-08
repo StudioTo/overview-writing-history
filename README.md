@@ -4,8 +4,20 @@
 # Pré-Histoire
   **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
   
-  ![](/links/test.jpg)
-  <sub>Grotte d’El Castille, Espagne</sub>
+  <table>
+  <tr>
+  <td>
+      <img src="links/test.jpg" alt="Image 1" width=auto/>
+      <br>
+      <p style="text-align: center;">Légende de l'image 1</p>
+  </td>
+  <td>
+      <img src="links/test.jpg" alt="Image 2" width=auto/>
+      <br>
+      <p style="text-align: center;">Légende de l'image 2</p>
+  </td>
+  </tr>
+  </table>
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
