@@ -3,7 +3,6 @@
   
 # Pré-Histoire
   **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
-  
   ![](/links/Overview_Writing_History_7.jpg)
   <sub>Grotte d’El Castille, Espagne</sub>
 #
