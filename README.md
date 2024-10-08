@@ -10,7 +10,7 @@ Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directi
 | Grotte d’El Castille, Espagne              |
 
 # -XXXXXX: Pictogrammes
-Figuration du familier (nature, personnes, animaux, objets)
+Symboles qui représentent les choses familières (nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
