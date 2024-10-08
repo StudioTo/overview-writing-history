@@ -3,7 +3,7 @@
   
 # Pré-Histoire
 # **-30'000:** Premières traces écrites  
-### Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
+Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_007.jpg)|
 |:------------------------------------------:|
