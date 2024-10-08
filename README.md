@@ -66,12 +66,13 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-
-
-# 
-# -1100
-# Antiquité Greco-Romaine
-  Adobe Font Folder  
+# -1100: Antiquité Greco-Romaine
+  Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
+  
+|![](/links/overview-writing-history_024.jpg)|
+|:------------------------------------------:|
+| Grotte d’El Castille, Espagne              |
+  
 # -700: 
   Adobe Font Folder  
 # -300
