@@ -2,7 +2,9 @@
   Timeline de l'histoire de l'écriture
   
 # -2000: Pré-Histoire
+  Figuration du familier
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
+  Grotte de Pech-Merle
 #
 #
 # […]
