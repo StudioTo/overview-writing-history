@@ -28,7 +28,7 @@ Associations de pictogrammes (qui crée un sens nouveau).
 # -XXXXXX: Phonogrammes
 Formes qui représentent les sons.
   
-|![](/links/overview-writing-history_014.jpg)                                  |![](/links/overview-writing-history_015.jpg)                                  |
+|![](/links/overview-writing-history_014.jpg)                                  |![](/links/overview-writing-history_018.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | Tablette administrative cunéiforme en Mésopotamie (Syrie)                    | L’«alpha» qui acquiert la valeur phonétique «a»                                           |
 
