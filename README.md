@@ -12,6 +12,11 @@
   ![](/links/Overview_Writing_History_9.jpg)
   <sub>Étiquettes pictographiques en Mésopotamie (Syrie) </sub>
 #
+  **-XXXXXX:** Pictogrammes: simplification de la représentation.
+  
+  ![](/links/Overview_Writing_History_10.jpg)
+  <sub>Étiquettes pictographiques en Mésopotamie (Syrie) </sub>
+#
 # -1100
 # Antiquité Greco-Romaine
   Adobe Font Folder  
