@@ -35,6 +35,10 @@ Formes qui représentent les sons.
 # -1200: Inventiont de l'Alphabet 🔥
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
+|![](/links/overview-writing-history_023.jpg)|
+|:------------------------------------------:|
+| Grotte d’El Castille, Espagne              |
+
 # -1200: Cunéiformes
 Les pictogrammes évoluent en phonogrammes.
   
