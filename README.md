@@ -4,14 +4,14 @@
 # Pré-Histoire
   **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
   
-  <table>
+  <table style="border-collapse: collapse; border: none;">
   <tr>
-  <td>
+  <td style="border: none; text-align: center;">
       <img src="links/test.jpg" alt="Image 1" width=auto/>
       <br>
       <p style="text-align: center;">Légende de l'image 1</p>
   </td>
-  <td>
+  <td style="border: none; text-align: center;">
       <img src="links/test.jpg" alt="Image 2" width=auto/>
       <br>
       <p style="text-align: center;">Légende de l'image 2</p>
