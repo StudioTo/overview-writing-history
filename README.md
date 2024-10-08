@@ -28,8 +28,18 @@
   <sub>The Great Gallery (Horseshoe Canyon), Etats-Unis</sub>
 # 
   ![](/links/Overview_Writing_History_13.jpg)
-  <sub>7 tribus amérindiennes réunies pour droit de pêche dans quatre lacs</sub>
+  <sub>7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs</sub>
 #
+  **-XXXXXX:** Phonogrammes: formes qui représentent les sons.
+  
+  ![](/links/Overview_Writing_History_14.jpg)
+  <sub>Tablette administrative cunéiforme en Mésopotamie (Syrie)</sub>
+# 
+  **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
+  
+  ![](/links/Overview_Writing_History_14.jpg)
+  <sub>l’«alpha» qui acquiert la valeur phonétique «a»</sub>
+# 
 # -1100
 # Antiquité Greco-Romaine
   Adobe Font Folder  
