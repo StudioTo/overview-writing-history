@@ -15,7 +15,8 @@
   Figuration du contexte familier: chevaux et mains en négatif
 # […]
   Adobe Font Folder
-# -1100: Antiquité Greco-Romaine
+# -1100
+# Antiquité Greco-Romaine
   Adobe Font Folder  
 # -700: 
   Adobe Font Folder  
