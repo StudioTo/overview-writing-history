@@ -6,7 +6,7 @@
 
 ![](/links/Overview_Writing_History_9.jpg)  |  ![](/links/Overview_Writing_History_9.jpg)
 :-------------------------:|:-------------------------:
-### Solarized dark         |  ### Solarized Ocean
+ Solarized dark            |   Solarized Ocean
 
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
