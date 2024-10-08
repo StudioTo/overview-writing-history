@@ -8,8 +8,7 @@
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-#
-  **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
+# **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
