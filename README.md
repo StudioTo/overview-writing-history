@@ -2,7 +2,9 @@
   Timeline de l'histoire de l'écriture
   
 # Pré-Histoire
-### -30'000
+#
+-30'000
+#
   Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
   
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
