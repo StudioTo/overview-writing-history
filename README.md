@@ -15,7 +15,7 @@
 |:------------------------------------------:|
 | Solarized dark                             |
 
-|![](/links/Overview_Writing_History_9.jpg)|
+![](/links/Overview_Writing_History_9.jpg)
 |:------------------------------------------:|
 | Solarized dark                             |
 
