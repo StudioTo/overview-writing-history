@@ -4,16 +4,16 @@
 # Pré-Histoire
   **-30'000:** Première apparition de **traces écrites**. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
-![](/links/Overview_Writing_History_9.jpg)  |  ![](/links/Overview_Writing_History_9.jpg)
-:-------------------------:|:-------------------------:
- Solarized dark            |   Solarized dark
+|![](/links/overview-writing-history_007.jpg)|
+|:------------------------------------------:|
+| Grotte d’El Castille, Espagne              |
 
 #
   **-XXXXXX:** Pictogrammes: figuration du familier (nature, personnes, animaux, objets)
   
-|![](/links/Overview_Writing_History_6.jpg)|
-|:------------------------------------------:|
-| Solarized dark                             |
+|![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| Étiquettes pictographiques en Mésopotamie (Syrie)                            | simplification de la représentation                                          |
 
 |![](/links/Overview_Writing_History_9.jpg)|
 |:------------------------------------------:|
