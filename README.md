@@ -2,7 +2,7 @@
   Timeline de l'histoire de l'écriture
   
 # -2000: Pré-Histoire
-  Adobe Font Folder
+  ![](http://studioto.github.io/overview-writing-history/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
 #
 #
 # […]
