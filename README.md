@@ -1,7 +1,6 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
-  
-# Pré-Histoire
+
 # **-30'000:** Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
@@ -12,9 +11,13 @@ Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directi
 # -XXXXXX: Pictogrammes
 Symboles qui représentent les choses familières (nature, personnes, animaux, objets)
   
-|![](/links/overview-writing-history_009.jpg)                                  |![](/links/overview-writing-history_010.jpg)                                  |
-|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| Étiquettes pictographiques en Mésopotamie (Syrie)                            | Simplification de la représentation                                          |
+|![](/links/overview-writing-history_009.jpg)                                  |
+|:----------------------------------------------------------------------------:|
+| Étiquettes pictographiques en Mésopotamie (Syrie)                            |
+
+|![](/links/overview-writing-history_010.jpg)                                  |
+|:----------------------------------------------------------------------------:|
+| Simplification de la représentation                                          |
   
 # -XXXXXX: Idéogrammes
 Associations de pictogrammes (qui crée un sens nouveau).
