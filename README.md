@@ -5,7 +5,7 @@
 # **-30'000:** Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
-|![](/links/overview-writing-history_007.jpg)|
+|![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
