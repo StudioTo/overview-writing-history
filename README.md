@@ -1,12 +1,14 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
   
-# -2000: Pré-Histoire
-  Figuration du familier  
+# -22000: Pré-Histoire
+  Première apparition de traces écrites: chevaux et mains en négatif
+  
   ![](/links/Eracom_24_25_Typographie_Histoire_Ecriture_v9.jpg)
   <sub>Grotte de Pech-Merle, France</sub>
 #
 #
+  Figuration du contexte familier: chevaux et mains en négatif
 # […]
   Adobe Font Folder
 # -1100: Antiquité Greco-Romaine
