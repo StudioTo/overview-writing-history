@@ -38,7 +38,12 @@
   **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
   
   ![](/links/Overview_Writing_History_15.jpg)
-  <sub>l’«alpha» qui acquiert la valeur phonétique «a»</sub>
+  <sub>L’«alpha» qui acquiert la valeur phonétique «a»</sub>
+#
+  **-XXXXXX:** Phonogrammes: tête de boeuf > alpha > a.
+  
+  ![](/links/Overview_Writing_History_16.jpg)
+  <sub>Forteresse de Van, Turquie</sub>
 # 
 # -1100
 # Antiquité Greco-Romaine
