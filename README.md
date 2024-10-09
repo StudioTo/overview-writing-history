@@ -81,7 +81,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -1200: Inventiont de l'Alphabet 🔥
+# -1200: Inventiont de l'Alphabet
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 |![](/links/overview-writing-history_023.jpg)|
