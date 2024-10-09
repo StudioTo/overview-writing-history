@@ -81,6 +81,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
   Adobe Font Folder  
 # Ier: Empire Romain
   Adobe Font Folder  
+# 🗂️ Incises
 # IIe
   Adobe Font Folder  
 # IIIe
