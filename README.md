@@ -2,7 +2,7 @@
   Timeline de l'histoire de l'écriture
 
 ## Index
-- [Incises](#-incises)
+- [Incises](#incises)
 
 # -30000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
@@ -84,7 +84,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
   Adobe Font Folder  
 # Ier: Empire Romain
   Adobe Font Folder  
-# 🗂️ Incises
+# Incises
 # IIe
   Adobe Font Folder  
 # IIIe
