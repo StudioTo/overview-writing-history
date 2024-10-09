@@ -1,8 +1,23 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
 
-## Index
-- [Incises](#incises)
+## Classification Historique
+- [incises](#incises)
+- [onciales](#onciales)
+- [cursives](#cursives)
+- [gothiques](#gothiques)
+- [humanes](#humanes)
+- [garaldes](#garaldes)
+- [réales](#réales)
+- [didones](#didones)
+- [mécanes](#mécanes)
+- [mono](#mono)
+- [expressives](#expressives)
+- [grotesques](#grotesques)
+- [géométriques](#géométriques)
+- [humanistes](#humanistes)
+- [néo-grotesques](#néo-grotesques)
+- [non-alphabétique](#non-alphabétique)
 
 # -30000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
