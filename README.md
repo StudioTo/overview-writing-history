@@ -2,7 +2,7 @@
   Timeline de l'histoire de l'écriture
 
 ## Index
-- [Incises](#🗂️ Incises)
+- [Incises](#🗂Incises)
 
 # -30000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
