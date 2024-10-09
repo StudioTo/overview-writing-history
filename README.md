@@ -19,9 +19,11 @@
 - [Néo-Grotesques](#néo-grotesques)
 - [Non-Alphabétique](#non-alphabétique)
 
-## Moments clés
+## Avancées technologiques
 - [Invention de l'alphabet](#incises)
 - [Invention des caractères mobiles](#onciales)
+- [Invention de la composition à chaud](#onciales)
+- [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
 # -30000: Premières traces écrites  
