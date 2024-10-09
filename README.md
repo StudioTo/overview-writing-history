@@ -1,6 +1,9 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline de l'histoire de l'écriture
 
+## Index
+- [Incises](#introduction)
+
 # -30000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
