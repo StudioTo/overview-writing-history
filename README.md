@@ -2,22 +2,22 @@
   Timeline de l'histoire de l'écriture
 
 ## Classification Historique
-- [incises](#incises)
-- [onciales](#onciales)
-- [cursives](#cursives)
-- [gothiques](#gothiques)
-- [humanes](#humanes)
-- [garaldes](#garaldes)
-- [réales](#réales)
-- [didones](#didones)
-- [mécanes](#mécanes)
-- [mono](#mono)
-- [expressives](#expressives)
-- [grotesques](#grotesques)
-- [géométriques](#géométriques)
-- [humanistes](#humanistes)
-- [néo-grotesques](#néo-grotesques)
-- [non-alphabétique](#non-alphabétique)
+- [Incises](#incises)
+- [Onciales](#onciales)
+- [Cursives](#cursives)
+- [Gothiques](#gothiques)
+- [Humanes](#humanes)
+- [Garaldes](#garaldes)
+- [Réales](#réales)
+- [Didones](#didones)
+- [Mécanes](#mécanes)
+- [Monos](#mono)
+- [Expressives](#expressives)
+- [Grotesques](#grotesques)
+- [Géométriques](#géométriques)
+- [Humanistes](#humanistes)
+- [Néo-Grotesques](#néo-grotesques)
+- [Non-Alphabétique](#non-alphabétique)
 
 # -30000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
