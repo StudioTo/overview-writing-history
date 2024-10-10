@@ -26,14 +26,14 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -30'000: PICTOGRAPHES
+# PICTOGRAPHES
 Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-# -4000: PICTOGRAMMES
+# PICTOGRAMMES
 Images qui ressemblent à ce qu'elles représentent (les choses familières: nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |
@@ -44,7 +44,7 @@ Images qui ressemblent à ce qu'elles représentent (les choses familières: nat
 |:----------------------------------------------------------------------------:|
 | Simplification de la représentation                                          |
   
-# -3200: IDEOGRAMMES
+# IDEOGRAMMES
 Symboles qui représentent des idées.
 
 |![](/links/overview-writing-history_012.jpg)                                               |
@@ -66,7 +66,7 @@ Symboles qui représentent des idées.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -0000: PHONOGRAMMES (système d'écriture)
+# PHONOGRAMMES (système d'écriture)
 Formes qui représentent les sons.
 Un système d'écriture comprend un ensemble de symboles (script) ainsi que les règles selon lesquelles celui-ci représente une langue particulière.
 
@@ -88,7 +88,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -0000: ALPHABETS SÉMITIQUES (consonnes)
+# ALPHABETS SÉMITIQUES (consonnes)
 
 # -0000: Sinaïtique (Sinaï)
 
@@ -98,7 +98,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 
 # -0000: Généalogies des alphabets
 
-# -1200: ALPHABETS MODERNE (consonnes + voyelles)
+# ALPHABETS MODERNE (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 |![](/links/overview-writing-history_023.jpg)|
