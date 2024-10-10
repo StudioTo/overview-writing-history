@@ -89,7 +89,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# Systèmes d'écriture logographique
+# Systèmes d'écriture phonétiques
 Un système d'écriture phonétique représente les sons (phonèmes) d'une langue, ce qui permet la prononciation des mots.
 
 ## ALPHABETS SÉMITIQUES (consonnes)
