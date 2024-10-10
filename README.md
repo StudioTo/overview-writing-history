@@ -66,16 +66,16 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -0000: De la figuration à l'alphabet
+# -0000: Systèmes d'écriture
 
-# -2600: Hiéroglyphes Égyptiens
+# -2600: Hiéroglyphes (Égypte)
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
   
 |![](/links/overview-writing-history_022.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
-# -2400: Cunéiformes Mésopotamiens
+# -2400: Cunéiformes (Mésopotamie)
 L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history_018.jpg)                                               |
@@ -86,17 +86,17 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -0000: Proto-Alphabets (consonnes uniquement)
+# -0000: Alphabet Sémitiques
 
-# -0000: Proto-Sinaïtique
+# -0000: Sinaïtique (Sinaï)
 
-# -0000: Proto-Canaanite
+# -0000: Canaanite (Canaan)
 
-# -0000: Phénicien
+# -0000: Phénicien (Côte est de la Méditerranée)
 
-# -0000: Différents scripts, arbre généalogique
+# -0000: Généalogies des alphabets
 
-# -1200: Inventiont de l'Alphabet (consonnes + voyelles)
+# -1200: Inventiont de l'alphabet moderne (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 |![](/links/overview-writing-history_023.jpg)|
