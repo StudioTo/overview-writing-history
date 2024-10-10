@@ -66,9 +66,8 @@ Symboles qui représentent des idées.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# PHONOGRAMMES (système d'écriture)
-Formes qui représentent les sons.
-Un système d'écriture comprend un ensemble de symboles (script) ainsi que les règles selon lesquelles celui-ci représente une langue particulière.
+# Systèmes d'écriture logographique
+Un système d'écriture logographique utilise des symboles (ou caractères) pour représenter des mots ou des morphèmes (les plus petites unités de sens).
 
 ## -2600: Hiéroglyphes (Égypte)
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
@@ -88,7 +87,10 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# ALPHABETS SÉMITIQUES (consonnes)
+# Systèmes d'écriture logographique
+Un système d'écriture phonétique représente les sons (phonèmes) d'une langue, ce qui permet la prononciation des mots.
+
+## ALPHABETS SÉMITIQUES (consonnes)
 
 ## -0000: Sinaïtique (Sinaï)
 
@@ -96,7 +98,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 
 ## -0000: Phénicien (Côte est de la Méditerranée)
 
-# ALPHABETS MODERNE (consonnes + voyelles)
+## ALPHABETS MODERNE (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 ## Généalogies des alphabets
