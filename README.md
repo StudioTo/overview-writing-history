@@ -29,14 +29,14 @@
 # Symboles écrits
 
 ## Pictographes
-Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
+UN Pictographe est un 
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
 ## Pictogrammes
-Images qui ressemblent à ce qu'elles représentent (les choses familières: nature, personnes, animaux, objets)
+Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique.
   
 |![](/links/overview-writing-history_009.jpg)                                  |
 |:----------------------------------------------------------------------------:|
@@ -47,7 +47,7 @@ Images qui ressemblent à ce qu'elles représentent (les choses familières: nat
 | Simplification de la représentation                                          |
   
 ## Idéogrammes
-Symboles qui représentent des idées.
+Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière.
 
 |![](/links/overview-writing-history_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
