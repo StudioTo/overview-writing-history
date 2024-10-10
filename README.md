@@ -28,14 +28,14 @@
 
 # Symboles écrits
 
-# PICTOGRAPHES
+## Pictographes
 Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-# PICTOGRAMMES
+## Pictogrammes
 Images qui ressemblent à ce qu'elles représentent (les choses familières: nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |
@@ -46,7 +46,7 @@ Images qui ressemblent à ce qu'elles représentent (les choses familières: nat
 |:----------------------------------------------------------------------------:|
 | Simplification de la représentation                                          |
   
-# IDEOGRAMMES
+## Idéogrammes
 Symboles qui représentent des idées.
 
 |![](/links/overview-writing-history_012.jpg)                                               |
