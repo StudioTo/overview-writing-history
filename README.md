@@ -26,14 +26,14 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -30'000: SYMBOLES
+# -30'000: PICTOGRAPHES
 Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-# -4000: Pictogrammes
+# -4000: PICTOGRAMMES
 Images qui ressemblent à ce qu'elles représentent (les choses familières: nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |
@@ -44,7 +44,7 @@ Images qui ressemblent à ce qu'elles représentent (les choses familières: nat
 |:----------------------------------------------------------------------------:|
 | Simplification de la représentation                                          |
   
-# -3200: Idéogrammes
+# -3200: IDEOGRAMMES
 Symboles qui représentent des idées.
 
 |![](/links/overview-writing-history_012.jpg)                                               |
@@ -55,8 +55,8 @@ Symboles qui représentent des idées.
 |:-----------------------------------------------------------------------------------------:|
 | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
-# -3000: 
-Formes qui représentent les sons.
+
+
   
 |![](/links/overview-writing-history_014.jpg)                                  |
 |:----------------------------------------------------------------------------:|
@@ -66,7 +66,8 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -0000: SYSTÈMES D’ÉCRITURE (Phonogrammes)
+# -0000: PHONOGRAMMES (système d'écriture)
+Formes qui représentent les sons.
 Un système d'écriture comprend un ensemble de symboles (script) ainsi que les règles selon lesquelles celui-ci représente une langue particulière.
 
 # -2600: Hiéroglyphes (Égypte)
