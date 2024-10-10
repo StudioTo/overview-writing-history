@@ -70,7 +70,7 @@ Symboles qui représentent des idées.
 Formes qui représentent les sons.
 Un système d'écriture comprend un ensemble de symboles (script) ainsi que les règles selon lesquelles celui-ci représente une langue particulière.
 
-# -2600: Hiéroglyphes (Égypte)
+## -2600: Hiéroglyphes (Égypte)
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
   
 |![](/links/overview-writing-history_022.jpg)                                               |
@@ -90,22 +90,22 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 
 # ALPHABETS SÉMITIQUES (consonnes)
 
-# -0000: Sinaïtique (Sinaï)
+## -0000: Sinaïtique (Sinaï)
 
-# -0000: Canaanite (Canaan)
+## -0000: Canaanite (Canaan)
 
-# -0000: Phénicien (Côte est de la Méditerranée)
+## -0000: Phénicien (Côte est de la Méditerranée)
 
 # ALPHABETS MODERNE (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
-# Généalogies des alphabets
+## Généalogies des alphabets
 
 |![](/links/overview-writing-history_023.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
-# -1100: Antiquité Grecque
+## -1100: Antiquité Grecque
   Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
 
 |![](/links/overview-writing-history_028.jpg)|
