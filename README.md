@@ -26,8 +26,8 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -30'000: Premières traces écrites  
-Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
+# -30'000: TRACES ÉCRITES
+Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
 |:------------------------------------------:|
@@ -66,7 +66,7 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -0000: Systèmes d'écriture
+# -0000: SYSTÈMES D’ÉCRITURE
 
 # -2600: Hiéroglyphes (Égypte)
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
@@ -86,7 +86,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -0000: Alphabet Sémitiques
+# -0000: ALPHABETS SÉMITIQUES (consonnes)
 
 # -0000: Sinaïtique (Sinaï)
 
@@ -96,7 +96,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 
 # -0000: Généalogies des alphabets
 
-# -1200: Inventiont de l'alphabet moderne (consonnes + voyelles)
+# -1200: ALPHABETS MODERNE (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 |![](/links/overview-writing-history_023.jpg)|
