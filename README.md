@@ -78,7 +78,7 @@ L’écriture égyptienne est une écriture de mots qui a conservé l’usage de
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
-# -2400: Cunéiformes (Mésopotamie)
+## -2400: Cunéiformes (Mésopotamie)
 L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history_018.jpg)                                               |
@@ -89,10 +89,10 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# Systèmes d'écriture phonétiques
+# Systèmes d'écriture phonétique
 Un système d'écriture phonétique représente les sons (phonèmes) d'une langue, ce qui permet la prononciation des mots.
 
-## ALPHABETS SÉMITIQUES (consonnes)
+# Alphabets sémitiques (consonnes)
 
 ## -0000: Sinaïtique (Sinaï)
 
@@ -100,7 +100,7 @@ Un système d'écriture phonétique représente les sons (phonèmes) d'une langu
 
 ## -0000: Phénicien (Côte est de la Méditerranée)
 
-## ALPHABETS MODERNE (consonnes + voyelles)
+# Alpabets modernes (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 ## Généalogies des alphabets
