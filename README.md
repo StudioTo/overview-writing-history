@@ -26,6 +26,8 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
+# Symboles écrits
+
 # PICTOGRAPHES
 Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
