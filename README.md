@@ -26,7 +26,7 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -30000: Premières traces écrites  
+# -30'000: Premières traces écrites  
 Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
