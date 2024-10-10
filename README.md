@@ -26,7 +26,7 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -30'000: TRACES ÉCRITES
+# -30'000: SYMBOLES
 Premières traces écrites de l'histoire. Peut-être pour marquer une appartenance, comptablisiler ou indiquer des directions?
 
 |![](/links/overview-writing-history_006.jpg)|
@@ -34,7 +34,7 @@ Premières traces écrites de l'histoire. Peut-être pour marquer une appartenan
 | Grotte d’El Castille, Espagne              |
 
 # -4000: Pictogrammes
-Symboles qui représentent les choses familières (nature, personnes, animaux, objets)
+Images qui ressemblent à ce qu'elles représentent (les choses familières: nature, personnes, animaux, objets)
   
 |![](/links/overview-writing-history_009.jpg)                                  |
 |:----------------------------------------------------------------------------:|
@@ -45,7 +45,7 @@ Symboles qui représentent les choses familières (nature, personnes, animaux, o
 | Simplification de la représentation                                          |
   
 # -3200: Idéogrammes
-Associations de pictogrammes (qui crée un sens nouveau).
+Symboles qui représentent des idées.
 
 |![](/links/overview-writing-history_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -55,7 +55,7 @@ Associations de pictogrammes (qui crée un sens nouveau).
 |:-----------------------------------------------------------------------------------------:|
 | 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
 
-# -3000: Phonogrammes
+# -3000: 
 Formes qui représentent les sons.
   
 |![](/links/overview-writing-history_014.jpg)                                  |
@@ -66,7 +66,8 @@ Formes qui représentent les sons.
 |:----------------------------------------------------------------------------:|
 | L’«alpha» qui acquiert la valeur phonétique «a»                              |
 
-# -0000: SYSTÈMES D’ÉCRITURE
+# -0000: SYSTÈMES D’ÉCRITURE (Phonogrammes)
+Un système d'écriture comprend un ensemble de symboles (script) ainsi que les règles selon lesquelles celui-ci représente une langue particulière.
 
 # -2600: Hiéroglyphes (Égypte)
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
