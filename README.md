@@ -73,10 +73,6 @@ L’écriture égyptienne est une écriture de mots qui a conservé l’usage de
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
-# -0000: Sinaïque
-
-# -0000: Phénicien
-
 # -2400: Cunéiformes
 L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
   
@@ -87,6 +83,14 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 |![](/links/overview-writing-history_019.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
+
+# -0000: Proto-Sinaïtique
+
+# -0000: Proto-Canaanite
+
+# -0000: Phénicien
+
+# -0000: Différents scripts, arbre généalogique
 
 # -1200: Inventiont de l'Alphabet
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
