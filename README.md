@@ -96,10 +96,10 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 
 # -0000: Phénicien (Côte est de la Méditerranée)
 
-# -0000: Généalogies des alphabets
-
 # ALPHABETS MODERNE (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
+
+# Généalogies des alphabets
 
 |![](/links/overview-writing-history_023.jpg)|
 |:------------------------------------------:|
