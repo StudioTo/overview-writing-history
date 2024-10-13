@@ -29,7 +29,7 @@
 # Symboles écrits
 
 ## Pictographes
-Un Pictographe est un 
+Un pictographe est une représentation d'objets familiers peinte dans une grotte à l'âge de pierre.
 
 |![](/links/overview-writing-history-v2_001.jpg)|
 |:------------------------------------------:|
@@ -124,11 +124,11 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 
 ## Généalogies des alphabets
 
-|![](/links/overview-writing-history-v2_017.jpg)|
+|![](/links/overview-writing-history-v2_016.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
-|![](/links/overview-writing-history-v2_016.jpg)|
+|![](/links/overview-writing-history-v2_017.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
