@@ -152,7 +152,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Abc                                        |
   
-# Incises
+# 🗂️ Incises
 
 |![](/links/overview-writing-history_031.jpg)|
 |:------------------------------------------:|
@@ -164,7 +164,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 
 |![](/links/overview-writing-history_033.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| 🔨 Abc                                        |
 
 # IIe
   Adobe Font Folder 
