@@ -26,7 +26,7 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# Symboles écrits
+# Système d'écriture symbolique
 
 ## Pictographes
 Un pictographe est une représentation d'objets familiers peinte dans une grotte à l'âge de pierre.
