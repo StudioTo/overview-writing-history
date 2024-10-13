@@ -128,12 +128,14 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
-## -1100: Antiquité Grecque
-  Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
-
 |![](/links/overview-writing-history-v2_016.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
+
+## -1100: Antiquité Grecque
+  Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
+
+
   
 # -700: 
   Adobe Font Folder  
