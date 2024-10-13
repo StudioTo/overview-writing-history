@@ -172,10 +172,6 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
-
-|![](/links/overview-writing-history_043.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
   
 # IIIe
   Adobe Font Folder  
@@ -188,6 +184,10 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |![](/links/overview-writing-history_044.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+|![](/links/overview-writing-history_052_bis.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
   
 # VIe: Moyen-Âge
   Abc
@@ -196,10 +196,6 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
-|![](/links/overview-writing-history_047.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
 |![](/links/overview-writing-history_048.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
@@ -207,9 +203,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 # VIIe
   Adobe Font Folder  
 
-|![](/links/overview-writing-history_052_bis.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
+
   
 # VIIIe: Roman
   Adobe Font Folder  
