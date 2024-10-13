@@ -39,10 +39,6 @@ Un pictographe est une représentation d'objets familiers peinte dans une grotte
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-|![](/links/overview-writing-history-v2_003.jpg)|
-|:------------------------------------------:|
-| Grotte d’El Castille, Espagne              |
-
 ## Pictogrammes
 Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique.
   
