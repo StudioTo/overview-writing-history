@@ -38,14 +38,14 @@ Un pictographe est un dessin ou une image qui représente un objet, un être ou 
 ## Pictogrammes
 Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique (sens figuré, maison = famille).
   
-|![](/links/overview-writing-history-v2_004.jpg)                                  |
+|![](/links/overview-writing-history-v2_004_alt.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Étiquettes pictographiques en Mésopotamie (Syrie)                            |
 
 
   
 ## Idéogrammes
-Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + montagne = homme venant de derrière la montagne = esclave).
+Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + animaux = chasse).
 
 |![](/links/overview-writing-history-v2_005.jpg)                                  |
 |:----------------------------------------------------------------------------:|
