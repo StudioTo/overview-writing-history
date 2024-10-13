@@ -147,6 +147,10 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
   Adobe Font Folder  
 # Ier: Empire Romain
   Adobe Font Folder  
+
+|![](/links/overview-writing-history_042.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
   
 # Incises
 
@@ -159,10 +163,6 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 | Abc                                        |
 
 |![](/links/overview-writing-history_033.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_033_00002.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
