@@ -29,7 +29,7 @@
 # Système d'écriture symbolique
 
 ## Pictographes
-Un pictographe est une représentation d'objets familiers peinte dans une grotte à l'âge de pierre.
+Un pictographe est un dessin ou une image qui représente un objet, un être ou une scène de manière simplifiée et stylisée (sens littéral, boeuf = boeuf).
 
 |![](/links/overview-writing-history-v2_001.jpg)|
 |:------------------------------------------:|
@@ -40,7 +40,7 @@ Un pictographe est une représentation d'objets familiers peinte dans une grotte
 | Grotte d’El Castille, Espagne              |
 
 ## Pictogrammes
-Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique.
+Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique (sens figuré, maison = famille).
   
 |![](/links/overview-writing-history-v2_004.jpg)                                  |
 |:----------------------------------------------------------------------------:|
@@ -49,17 +49,17 @@ Un pictogramme est un symbole graphique qui transmet une signification par sa re
 
   
 ## Idéogrammes
-Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière.
+Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + montagne = homme venant de derrière la montagne = esclave).
 
 |![](/links/overview-writing-history-v2_005.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Simplification de la représentation                                          |
 
 # Systèmes d'écriture logographique
-Un système d'écriture logographique utilise des symboles (ou caractères) pour représenter des mots ou des morphèmes (les plus petites unités de sens).
+Un système d'écriture logographique utilisent une combinaison de d'idéogrammes (concepts) et de phonogrammes (sons).
 
 ## -2600: Hiéroglyphes (Égypte)
-L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
+L’écriture égyptienne utilise des symboles encore figuratifs.
   
 |![](/links/overview-writing-history-v2_008.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -70,7 +70,7 @@ L’écriture égyptienne est une écriture de mots qui a conservé l’usage de
 | Forteresse de Van, Turquie                                      |
 
 ## -2400: Cunéiformes (Mésopotamie)
-L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
+L’écriture cunéiforme utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history-v2_006.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -81,7 +81,7 @@ L’écriture cunéiforme est une écriture de mots qui utilise des symboles de 
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
 # Systèmes d'écriture phonétique
-Un système d'écriture phonétique représente les sons (phonèmes) d'une langue, ce qui permet la prononciation des mots.
+Un système d'écriture phonétique représente des sons qui permettent la prononciation des mots d'une langue (correspondance d'abord symbole = son, puis mot = concept).
 
 # Alphabets sémitiques (consonnes)
 
