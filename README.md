@@ -31,42 +31,33 @@
 ## Pictographes
 UN Pictographe est un 
 
-|![](/links/overview-writing-history_006.jpg)|
+|![](/links/overview-writing-history-v2_001.jpg)|
+|:------------------------------------------:|
+| Grotte d’El Castille, Espagne              |
+
+|![](/links/overview-writing-history-v2_002.jpg)|
+|:------------------------------------------:|
+| Grotte d’El Castille, Espagne              |
+
+|![](/links/overview-writing-history-v2_003.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
 ## Pictogrammes
 Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique.
   
-|![](/links/overview-writing-history_009.jpg)                                  |
+|![](/links/overview-writing-history-v2_004.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Étiquettes pictographiques en Mésopotamie (Syrie)                            |
 
-|![](/links/overview-writing-history_010.jpg)                                  |
-|:----------------------------------------------------------------------------:|
-| Simplification de la représentation                                          |
+
   
 ## Idéogrammes
 Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière.
 
-|![](/links/overview-writing-history_012.jpg)                                               |
-|:-----------------------------------------------------------------------------------------:|
-| The Great Gallery (Horseshoe Canyon), Etats-Unis                                     |
-
-|![](/links/overview-writing-history_013.jpg)                                               |
-|:-----------------------------------------------------------------------------------------:|
-| 7 tribus amérindiennes réunies pour demander le droit de pêcher dans quatre lacs.         |
-
-
-
-  
-|![](/links/overview-writing-history_014.jpg)                                  |
+|![](/links/overview-writing-history-v2_005.jpg)                                  |
 |:----------------------------------------------------------------------------:|
-| Tablette administrative cunéiforme en Mésopotamie (Syrie)                    |
-
-|![](/links/overview-writing-history_015.jpg)                                  |
-|:----------------------------------------------------------------------------:|
-| L’«alpha» qui acquiert la valeur phonétique «a»                              |
+| Simplification de la représentation                                          |
 
 # Systèmes d'écriture logographique
 Un système d'écriture logographique utilise des symboles (ou caractères) pour représenter des mots ou des morphèmes (les plus petites unités de sens).
@@ -74,18 +65,22 @@ Un système d'écriture logographique utilise des symboles (ou caractères) pour
 ## -2600: Hiéroglyphes (Égypte)
 L’écriture égyptienne est une écriture de mots qui a conservé l’usage de signes symboliques.
   
-|![](/links/overview-writing-history_022.jpg)                                               |
+|![](/links/overview-writing-history-v2_008.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Forteresse de Van, Turquie                                      |
+
+|![](/links/overview-writing-history-v2_009.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
 ## -2400: Cunéiformes (Mésopotamie)
 L’écriture cunéiforme est une écriture de mots qui utilise des symboles de plus en plus géométriques et abstraits.
   
-|![](/links/overview-writing-history_018.jpg)                                               |
+|![](/links/overview-writing-history-v2_006.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Forteresse de Van, Turquie                                      |
 
-|![](/links/overview-writing-history_019.jpg)                                               |
+|![](/links/overview-writing-history-v2_007.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
@@ -96,23 +91,47 @@ Un système d'écriture phonétique représente les sons (phonèmes) d'une langu
 
 ## -0000: Sinaïtique (Sinaï)
 
+|![](/links/overview-writing-history-v2_010.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
+
+|![](/links/overview-writing-history-v2_011.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
+
 ## -0000: Canaanite (Canaan)
 
+|![](/links/overview-writing-history-v2_012.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
+
+|![](/links/overview-writing-history-v2_013.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
+
 ## -0000: Phénicien (Côte est de la Méditerranée)
+
+|![](/links/overview-writing-history-v2_014.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
+
+|![](/links/overview-writing-history-v2_015.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Vache, Femme, Femme au delà des montagnes (esclave)         |
 
 # Alpabets modernes (consonnes + voyelles)
 Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
 
 ## Généalogies des alphabets
 
-|![](/links/overview-writing-history_023.jpg)|
+|![](/links/overview-writing-history-v2_017.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
 ## -1100: Antiquité Grecque
   Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
 
-|![](/links/overview-writing-history_028.jpg)|
+|![](/links/overview-writing-history-v2_016.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
   
