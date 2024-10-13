@@ -77,7 +77,7 @@ L’écriture cunéiforme utilise des symboles de plus en plus géométriques et
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
 # Systèmes d'écriture phonétique
-Un système d'écriture phonétique représente des sons qui permettent la prononciation des mots d'une langue (correspondance d'abord symbole = son, puis mot = concept).
+Un système d'écriture phonétique représente des sons qui permettent la prononciation des mots d'une langue (correspondance d'abord symbole = son, puis sons= mot, et enfin mot = concept).
 
 # Alphabets sémitiques (consonnes)
 
