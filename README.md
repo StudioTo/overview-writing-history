@@ -29,7 +29,7 @@
 # Symboles écrits
 
 ## Pictographes
-UN Pictographe est un 
+Un Pictographe est un 
 
 |![](/links/overview-writing-history-v2_001.jpg)|
 |:------------------------------------------:|
