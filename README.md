@@ -202,7 +202,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 
 |![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Chiffres romains en usage jusqu'alors                                        | Apparition des chiffres latin, Livre du Calcul, Leonardo Fibonacci                                        |
+| Chiffres romains en usage jusqu'à lors                                        | Livre du Calcul, Leonardo Fibonacci                                        |
 
 |![](/links/overview-writing-history_081.jpg)|
 |:------------------------------------------:|
@@ -257,57 +257,57 @@ La Renaissance ravive l’intérêt porté à la littérature classique et met e
 |:------------------------------------------:|
 | Minuscules humanistes: retour aux formes arrondies                                        |
 
-# 1495: Imprimeurs vénitiens
+# 1495: Imprimeurs Vénitiens
 # 🗂️ Humanistes
-  Adobe Font Folder
+Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caractères de métal.
 
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
-# 1500: Imprimeurs vénitiens
-# 🗂️ Cursives > Italiques
-Adobe Font Folder
+# 1500: L'italique
+# 🗂️ Cursives
+Apparition de l'italique, inspirée de l’écriture utilisée par la chancellerie (relations commerciales) à Venise à l'époque.
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
+| Cursive humaniste calligraphiée                                        | Italique humaniste imprimée                                        |
 
-# 1540: Imprimeurs français
+# 1540: Imprimeurs Français
 # 🗂️ Garaldes
-Adobe Font Folder
+Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privilégiant des formes plus fines et élancées.
 
 |![](/links/overview-writing-history_087.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Garamond imprimé                                        |
   
 # 1600 – 1660: Baroque
 # 🗂️ Réales
-  Adobe Font Folder
+L’esprit des lumières et du roi (réale > rex > roi): la rationalisation du dessin.
 
 |![](/links/overview-writing-history_089.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Louis XIV à Versailles                                        |
 
 |![](/links/overview-writing-history_090.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Le Romain du Roi est un alphabet conçu sur une grilles avant d’être gravé                                        |
 
 |![](/links/overview-writing-history_091.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Baskerville imprimé                                        |
   
-# 1660 – 1715: Classicisme
+# 1660 – 1715: Néo-Classicisme
 # 🗂️ Didones
-  Adobe Font Folder
+Premier empire français: les techniques d’impression deviennet plus précises, le dessin des lettres devient donc encore plus fin.
 
 |![](/links/overview-writing-history_093.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Le couronnement de Napoléon Bonaparte                                        |
 
 |![](/links/overview-writing-history_094.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Didone utilisée pour imprimer le code civil                                        |
   
 # 1760 – 1914: Révolution Industrielle
   Abc
