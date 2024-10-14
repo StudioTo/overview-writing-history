@@ -314,23 +314,21 @@ Grâce à des innovations technologiques, on passe d'une économie agraire et ar
 |:------------------------------------------:|
 | Rupture entre le travail de la terre et le travail à l'usine                                        |
 
-# 1808: Grands corps d'impression
+# 1808: Affiches
 # 🗂️ Expressives
 Pendant les premiers siècles de l'imprimerie, les caractères d'affichage n'existaient généralement pas. L’apparition du format affiche et la généralisation de la signalétique ont favorisé l'apparition de nouvelles formes de lettres (désormais réalisables grâce aux nouvelles techniques d'impression).
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 |![](/links/overview-writing-history_112.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Mise en exergue avec des grands corps                                        |
 
 |![](/links/overview-writing-history_115.jpg)|![](/links/overview-writing-history_114.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Caractères mobiles en bois (posters)                                        | Contraste inversé (Italiennes)                                        |
 
 |![](/links/overview-writing-history_113.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Fat Faces                                        |
 
 |![](/links/overview-writing-history_117.jpg)|
 |:------------------------------------------:|
@@ -359,8 +357,8 @@ Les slabs-sérifs deviennent populaires suite à la campagne d'égypte de Napol�
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1830: Sans-Sérifs
-# 🗂️ Grotesques
+# 1830: Impressions publicitaires
+# 🗂️ Grotesques (Sans-Sérifs)
 
 |![](/links/overview-writing-history_124.jpg)|
 |:------------------------------------------:|
