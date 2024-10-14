@@ -226,7 +226,7 @@ L’invention de l’imprimerie par Gutenberg marque le début de la Renaissance
 
 |![](/links/overview-writing-history_068.jpg)|
 |:------------------------------------------:|
-| Un «tireur» retire une feuille imprimée de la presse. À sa droite, le «batteur» encre la forme. À l’arrière-plan, des compositeurs composent les caractères.                                        |
+| Un « tireur » retire une feuille imprimée de la presse. À sa droite, le «batteur» encre la forme. À l’arrière-plan, des compositeurs composent les caractères.                                        |
 
 |![](/links/overview-writing-history_064.jpg)|![](/links/overview-writing-history_067.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -265,7 +265,7 @@ Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caract
 
 # 1500: L'italique
 # 🗂️ Cursives
-Apparition de l'italique, inspirée de l’écriture utilisée par la chancellerie (relations commerciales) à Venise à l'époque.
+Apparition de l'italique, inspirée de l’écriture utilisée par la chancellerie italienne (relations commerciales).
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -308,9 +308,9 @@ Premier empire français: les techniques d’impression deviennet plus précises
 | Didone utilisée pour imprimer le code civil                                        |
   
 # 1760 – 1914: Révolution Industrielle
-  Abc
+Grâce à des innovations technologiques, on passe d'une économie agraire et artisanale à une économie industrielle (mécanisation de la production, travail dans les usines).
 
-|![](/links/overview-writing-history_098.jpg)|
+|![](/links/overview-writing-history-v3_005.png)|
 |:------------------------------------------:|
 | Abc                                        |
 
