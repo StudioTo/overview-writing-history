@@ -162,7 +162,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 
 # 0 – 476: Empire Romain
 # 🗂️ Onciales
-  Le script oncial était principalement utilisée pour la copie de textes littéraires, religieux et bibliques sur sur parchemin.
+  Le script oncial était officiellement utilisé dans l'empire pour la copie de textes littéraires, religieux et bibliques sur sur parchemin.
 
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -177,48 +177,48 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 # 476 – 780: Moyen-Âge
 # Écritures nationales
 
+|![](/links/overview-writing-history_052_bis.jpg)|
+|:------------------------------------------:|
+| Dès que l’Empire cesse de faire régner l’ordre, chaque tempérament national crée son propre alphabet                                        |
+
 |![](/links/overview-writing-history_055.jpg)|![](/links/overview-writing-history_047.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Moine dans un scriptorium                                        | Abc                                        |
+| Moine copiste dans un scriptorium                                        | Simplification des formes des lettres permettant une écriture plus rapide et fluide, adaptée aux besoins croissants de la correspondance et des documents administratifs au cours du Moyen Âge.                                        |
 
 |![](/links/overview-writing-history_048.jpg)|
 |:------------------------------------------:|
 | Par souci d’efficacité, les majuscules se transforment en minuscules qui sont plus rapides à tracer                                        |
-
-|![](/links/overview-writing-history_052_bis.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
   
 # 780: Charlemagne
 # Minuscule carolingienne
-  Abc
+  Standardisation de l’écriture visant améliorer la communication à travers l’Empire franc (lettres bien formées + espaces entre les mots = grande lisibilité).
 
 |![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Charlemagne qui réforme l'écriture et la grammaire                                        | Ductus de la minuscule carolingienne                                         |
 
-# 1200: Chiffres occidentaux
-  Les chiffres proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
+# 1202: Chiffres latins
+  Les chiffres latins proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
 
 |![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Chiffres romains en usage jusqu'alors                                        | Humaniste cursive imprimée                                        |
+| Chiffres romains en usage jusqu'alors                                        | Apparition des chiffres latin, Livre du Calcul, Leonardo Fibonacci                                        |
 
 |![](/links/overview-writing-history_081.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Généalogie des chiffres latins                                        |
 
 # 1200 – 1450: Gothique
 # 🗂️ Fractures
-  Abc 
+La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne), les arrondis des lettres commencent à se briser (calligraphie « fracturée »).
 
 |![](/links/overview-writing-history_057.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Cathédrale de Wells, Angleterre                                        |
 
 |![](/links/overview-writing-history_059.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Ductus gothique                                        |
   
 # 1450: Gutemberg
 # 🛠️ Caractères mobiles
@@ -244,11 +244,15 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        | Abc                                        |
   
 # 1450 – 1600: Renaissance
-  Adobe Font Folder
+La Renaissance ravive l’intérêt porté à la littérature classique et met en lumière la minuscule carolingienne (modèle de « l’antiqua »).
 
 |![](/links/overview-writing-history_076.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Renaissance à Venise                                        |
+
+|![](/links/overview-writing-history_076.jpg)|
+|:------------------------------------------:|
+| Minuscules humanistes: retour aux formes arrondies                                        |
 
 # 1495: Imprimeurs vénitiens
 # 🗂️ Humanistes
