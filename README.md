@@ -17,6 +17,7 @@
 - [Géométriques](#géométriques)
 - [Humanistes](#humanistes)
 - [Néo-Grotesques](#néo-grotesques)
+- [Hybrides](#hybrides)
 - [Non-Alphabétique](#non-alphabétique)
 
 ## Avancées technologiques
@@ -404,6 +405,26 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 | Abc                                        |
 
 |![](/links/overview-writing-history_148.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_153.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_154.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
   
