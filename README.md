@@ -126,6 +126,7 @@ L’alphabet grec introduit un système complet qui inclut des symboles pour les
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
 # -1100: Antiquité Grecque
+Les Grecs libèrent l’écriture des contraintes de la représentation. 
 
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
@@ -133,14 +134,18 @@ L’alphabet grec introduit un système complet qui inclut des symboles pour les
 
 |![](/links/overview-writing-history_029.jpg)|
 |:------------------------------------------:|
-| Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.                                        |
-  
-# -700: 
-  Adobe Font Folder  
-# -300
-  Adobe Font Folder  
-# -100
-  Adobe Font Folder  
+|                                        |
+
+# -900: Etrusques
+
+|![](/links/overview-writing-history_028.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_029.jpg)|
+|:------------------------------------------:|
+|                                        |
+
 # Ier: Empire Romain
   Adobe Font Folder  
   
