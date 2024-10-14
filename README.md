@@ -136,7 +136,7 @@ Les Grecs libèrent l’écriture des contraintes de la représentation.
 |:------------------------------------------:|
 |                                        |
 
-# -900: Etrusques
+# -800: Etrusques
 
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
@@ -146,7 +146,7 @@ Les Grecs libèrent l’écriture des contraintes de la représentation.
 |:------------------------------------------:|
 |                                        |
 
-# Ier: Empire Romain
+# Ier: Antiquitié Romaine
   Adobe Font Folder  
   
 # 🗂️ Incises
