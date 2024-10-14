@@ -256,6 +256,21 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
   
 # XVe: Renaissance
   Adobe Font Folder
+
+|![](/links/overview-writing-history_076.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+
+
+|![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+  
 # XVIe: Baroque
   Adobe Font Folder
 # XVIIe: Classicisme
