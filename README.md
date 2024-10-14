@@ -334,7 +334,7 @@ Pendant les premiers siècles de l'imprimerie, les caractères d'affichage n'exi
 |:------------------------------------------:|
 | Rounded                                        |
 
-# 1820: Les unes de journeaux
+# 1820: Les titres de journeaux
 # 🗂️ Mécanes (Slab-Sérifs)
 Les slabs-sérifs deviennent populaires suite à la campagne d'égypte de Napoléon. De plus, les empattement rectangulaires réagissent bien à la technique d'impression de l'époque.
 
@@ -348,51 +348,54 @@ Les slabs-sérifs deviennent populaires suite à la campagne d'égypte de Napol�
 
 # 1829: Machine à écrire
 # 🗂️ Monospaces
+Sur une machine à écrire, chaque lettre occupe la même largeur (chasse fixe) afin de simplifier le mécanisme.
 
 |![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| La boule à écrire, Rasmus Malling-Hansen                                        | La machine à écrire Sholes et Glidden                                        |
 
 |![](/links/overview-writing-history_108.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Texte tapé à la machine à écrire                                       |
 
 # 1830: Impressions publicitaires
-# 🗂️ Grotesques (Sans-Sérifs)
+# 🗂️ Grotesques
+Le terme « grotesque » viendrait de l'italien « grottesco », qui signifie « appartenant à la grotte » en raison de leur aspect géométrique simple puisque dénué de sérifs. Il résulte d'une comparaison négative avec les caractères à empattement de l'époque, considérés comme plus nobles. Dans un premier temps, les premières sans-sérifs sont principalement utilisées pour de la publicité.
 
 |![](/links/overview-writing-history_124.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Premier caractère caractères sans-sérif, fonderie Caslon de Salisbury Square à Londres                                        |
 
 |![](/links/overview-writing-history_125.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Première apparition du terme «sans-serif», livre de spécimens de Vincent Figgins                                        |
 
 |![](/links/overview-writing-history_127.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Affiche publicitaire pour un saut en parachute dans les jardins de la Rotunda, Dublin                                        |
 
 # 1880: 
 # 🛠️ Composition à chaud
-Abc
+La composition à chaud consiste à fondre des alliages métalliques pour créer des lignes de type en un seul bloc, permettant une impression rapide et efficace en utilisant un système de composition automatisé.
 
 |![](/links/overview-writing-history_099.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Machines Linotype                                        |
 
 |![](/links/overview-writing-history_101.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Ligne moulée, vue d’en haut, vue de côté                                        |
 
 # 1914 – 1945: Modernisme
-  Adobe Font Folder
+Suite aux guerres mondiales, le modernisme cherche à rompre avec les traditions passées et à explorer de nouvelles formes d’expression, notamment à travers l’abstraction, l’expérimentation et la remise en question des conventions établies.
 
 |![](/links/overview-writing-history_121.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| L'école du Bauhaus a révolutionné les pratiques artistiques en promouvant une approche fonctionnelle et esthétique du design                                        |
 
 # 1916: Redécouverte des capitales romaines
 # 🗂️ Humanistes
+Capitales romaines + Minuscules carolingiennes
 
 |![](/links/overview-writing-history_136.jpg)|
 |:------------------------------------------:|
@@ -408,31 +411,34 @@ Abc
 
 # 1927: Constructivisme
 # 🗂️ Géométriques
+Construction modulaire avec des formes primaires (carré, rond, triangle)
 
 |![](/links/overview-writing-history_129.jpg)|![](/links/overview-writing-history_130.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Projet d'habitation Neue Frankfurt                                        | Première esquisses de la Futura pour la signalétique                                        |
 
 |![](/links/overview-writing-history_131.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Futura                                        |
 
 # 1945 – 1960: Post-Modernisme
-  Adobe Font Folder
+Le postmodernisme est un mouvement artistique caractérisé par un scepticisme envers les grands récits et idéologies et une tendance à célébrer l’ironie, la pluralité et la déconstruction des normes établies.
 
 # 1950:
-# 🛠️ Photo-Composition
+# 🛠️ Composition à froid (photo-composition)
+La photo-composition repose la photographie de caractères et leur projection sur un support sensible.
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Opérateur d'une machine de photo-composition                                        | La Graphic Page 1000 est une technique de mise en page typographique qui utilise un format standardisé de 1000 points                                        |
 
 |![](/links/overview-writing-history_153.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Les caractères sont stockés sur des disques pour pouvoir être exposés sur des supports photographiques                                        |
 
 # 1960: Style International
 # 🗂️ Néo-Grotesques
+Le style international incarne la volonté de représenter l’information de manière objective et systématique. Chaque élément du design doit avoir une fonction précise et servir le message.
 
 |![](/links/overview-writing-history_145.jpg)|
 |:------------------------------------------:|
