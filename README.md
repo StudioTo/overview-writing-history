@@ -28,46 +28,35 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# Système d'écriture symbolique
+# -64'000: Représentations symboliques
+Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
 
-## Pictographes
+# -38'800: Pictographes
 Un pictographe est un dessin ou une image qui représente un objet, un être ou une scène de manière simplifiée et stylisée (sens littéral, boeuf = boeuf).
 
 |![](/links/overview-writing-history-v2_002.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-## Pictogrammes
+## -22'000: Pictogrammes
 Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique (sens figuré, maison = famille).
   
 |![](/links/overview-writing-history-v2_004_alt.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Étiquettes pictographiques en Mésopotamie (Syrie)                            |
 
-
-  
-## Idéogrammes
+# -15'000 Idéogrammes
 Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + animaux = chasse).
 
 |![](/links/overview-writing-history-v2_005.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Simplification de la représentation                                          |
 
-# Systèmes d'écriture logographique
+# -3300: Systèmes d'écriture logographique
+Un système d’écriture implique d’identifier un ensemble de symboles qui représentent des sons, des mots ou des idées de manière standardisée et structurée dans le but de transmettre une information.
 Un système d'écriture logographique utilisent une combinaison de d'idéogrammes (concepts) et de phonogrammes (sons).
 
-## -2600: Hiéroglyphes (Égypte)
-L’écriture égyptienne utilise des symboles encore figuratifs.
-  
-|![](/links/overview-writing-history-v2_008.jpg)                                               |
-|:-----------------------------------------------------------------------------------------:|
-| Forteresse de Van, Turquie                                      |
-
-|![](/links/overview-writing-history-v2_009.jpg)                                               |
-|:-----------------------------------------------------------------------------------------:|
-| Forteresse de Van, Turquie                                      |
-
-## -2400: Cunéiformes (Mésopotamie)
+# -3300: Cunéiformes (Mésopotamie)
 L’écriture cunéiforme utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history-v2_006.jpg)                                               |
@@ -78,12 +67,24 @@ L’écriture cunéiforme utilise des symboles de plus en plus géométriques et
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# Systèmes d'écriture phonétique
+# -3200: Hiéroglyphes (Égypte)
+L’écriture égyptienne utilise des symboles encore figuratifs.
+  
+|![](/links/overview-writing-history-v2_008.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Forteresse de Van, Turquie                                      |
+
+|![](/links/overview-writing-history-v2_009.jpg)                                               |
+|:-----------------------------------------------------------------------------------------:|
+| Forteresse de Van, Turquie                                      |
+
+# -3000: Systèmes d'écriture phonétique
 Un système d'écriture phonétique représente des sons qui permettent la prononciation des mots d'une langue (correspondance d'abord symbole = son, puis sons = mot, et enfin mot = concept).
 
-# Alphabets sémitiques (consonnes)
+# -3000: Alphabets sémitiques (consonnes)
+Les alphabets sémitiques sont des systèmes d’écriture qui utilisent principalement des consonnes. Les voyelles sont généralement omises, et les lecteurs doivent les déduire à partir du contexte.
 
-## -0000: Sinaïtique (Sinaï)
+# -1900: Sinaïtique (Sinaï)
 
 |![](/links/overview-writing-history-v2_010.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -93,7 +94,7 @@ Un système d'écriture phonétique représente des sons qui permettent la prono
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-## -0000: Canaanite (Canaan)
+# -1600: Canaanite (Canaan)
 
 |![](/links/overview-writing-history-v2_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -103,7 +104,7 @@ Un système d'écriture phonétique représente des sons qui permettent la prono
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-## -0000: Phénicien (Côte est de la Méditerranée)
+# -1200: Phénicien (Côte est de la Méditerranée)
 
 |![](/links/overview-writing-history-v2_014.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -113,10 +114,8 @@ Un système d'écriture phonétique représente des sons qui permettent la prono
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# Alpabets modernes (consonnes + voyelles)
-Les systèmes de notation qui ont fondés l’écriture occidentale se sont simplifiés au fil du temps pour évoluer des pictogrammes aux phonogrammes puis syllabiques et finalement alphabétique.
-
-## Généalogies des alphabets
+# -1100: Alpabets modernes (consonnes + voyelles)
+L’alphabet grec introduit un système complet qui inclut des symboles pour les voyelles ainsi que pour les consonnes. Chaque symbole représente un son, y compris les voyelles, ce qui permet une transcription plus précise de la langue parlée.
 
 |![](/links/overview-writing-history-v2_016.jpg)|
 |:------------------------------------------:|
@@ -126,16 +125,13 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
-## -1100: Antiquité Grecque
-  Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
-
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
 |![](/links/overview-writing-history_029.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.                                        |
   
 # -700: 
   Adobe Font Folder  
