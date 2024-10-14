@@ -28,7 +28,7 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -64'000: Représentations symboliques
+# -64'000: ### Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
 
 # -38'800: Pictographes
@@ -56,8 +56,8 @@ Un idéogramme ou idéographie est un symbole qui représente une idée ou un co
 Un système d’écriture implique d’identifier un ensemble de symboles qui représentent des sons, des mots ou des idées de manière standardisée et structurée dans le but de transmettre une information.
 Un système d'écriture logographique utilisent une combinaison de d'idéogrammes (concepts) et de phonogrammes (sons).
 
-# -3300: Cunéiformes (Mésopotamie)
-L’écriture cunéiforme utilise des symboles de plus en plus géométriques et abstraits.
+# -3300: Cunéiformes
+L’écriture cunéiforme (Mésopotamie) utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history-v2_006.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -67,7 +67,7 @@ L’écriture cunéiforme utilise des symboles de plus en plus géométriques et
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -3200: Hiéroglyphes (Égypte)
+# -3200: Hiéroglyphes
 L’écriture égyptienne utilise des symboles encore figuratifs.
   
 |![](/links/overview-writing-history-v2_008.jpg)                                               |
@@ -81,10 +81,10 @@ L’écriture égyptienne utilise des symboles encore figuratifs.
 # -3000: Systèmes d'écriture phonétique
 Un système d'écriture phonétique représente des sons qui permettent la prononciation des mots d'une langue (correspondance d'abord symbole = son, puis sons = mot, et enfin mot = concept).
 
-# -3000: Alphabets sémitiques (consonnes)
+# -3000: Alphabets sémitiques
 Les alphabets sémitiques sont des systèmes d’écriture qui utilisent principalement des consonnes. Les voyelles sont généralement omises, et les lecteurs doivent les déduire à partir du contexte.
 
-# -1900: Sinaïtique (Sinaï)
+# -1900: Sinaïtique
 
 |![](/links/overview-writing-history-v2_010.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -94,7 +94,7 @@ Les alphabets sémitiques sont des systèmes d’écriture qui utilisent princip
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -1600: Canaanite (Canaan)
+# -1600: Canaanite
 
 |![](/links/overview-writing-history-v2_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -104,7 +104,7 @@ Les alphabets sémitiques sont des systèmes d’écriture qui utilisent princip
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -1200: Phénicien (Côte est de la Méditerranée)
+# -1200: Phénicien
 
 |![](/links/overview-writing-history-v2_014.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
@@ -114,7 +114,7 @@ Les alphabets sémitiques sont des systèmes d’écriture qui utilisent princip
 |:-----------------------------------------------------------------------------------------:|
 | Vache, Femme, Femme au delà des montagnes (esclave)         |
 
-# -1100: Alpabets modernes (consonnes + voyelles)
+# -1100: Alpabets modernes
 L’alphabet grec introduit un système complet qui inclut des symboles pour les voyelles ainsi que pour les consonnes. Chaque symbole représente un son, y compris les voyelles, ce qui permet une transcription plus précise de la langue parlée.
 
 |![](/links/overview-writing-history-v2_016.jpg)|
@@ -143,7 +143,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
  
-# -753: Fondation de Rome (Incises)
+# -753: Fondation de Rome
 À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
