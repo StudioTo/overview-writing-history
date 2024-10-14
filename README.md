@@ -310,10 +310,6 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 # XVIIIe: Révolution Industrielle
   Adobe Font Folder
 
-|![](/links/overview-writing-history_098.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
 |![](/links/overview-writing-history_099.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
@@ -349,6 +345,31 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
   
 # XIXe: Modernisme
   Adobe Font Folder
+
+|![](/links/overview-writing-history_121.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_124.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_125.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_127.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_129.jpg)|![](/links/overview-writing-history_130.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_131.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+  
 # XXe: Post-Modernisme
   Adobe Font Folder
 # XIe
