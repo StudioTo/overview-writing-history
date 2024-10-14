@@ -43,40 +43,40 @@ Un pictogramme est un symbole graphique qui transmet une signification par sa re
   
 |![](/links/overview-writing-history-v2_004_alt.jpg)                                  |
 |:----------------------------------------------------------------------------:|
-| Étiquettes pictographiques en Mésopotamie (Syrie)                            |
+| Parc National Chiribiquete, Colombie                           |
 
 # -15'000 Idéogrammes
 Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + animaux = chasse).
 
 |![](/links/overview-writing-history-v2_005.jpg)                                  |
 |:----------------------------------------------------------------------------:|
-| Simplification de la représentation                                          |
+| Comté de Forsyth, Géorgie, États-Unis                                          |
 
 # -3300: Systèmes d'écriture logographique
 Un système d’écriture implique d’identifier un ensemble de symboles qui représentent des sons, des mots ou des idées de manière standardisée et structurée dans le but de transmettre une information.
-Un système d'écriture logographique utilisent une combinaison de d'idéogrammes (concepts) et de phonogrammes (sons).
+Le système d'écriture logographique utilise une combinaison de d'idéogrammes (concepts) et de phonogrammes (sons).
 
 # -3300: Cunéiformes
 L’écriture cunéiforme (Mésopotamie) utilise des symboles de plus en plus géométriques et abstraits.
   
 |![](/links/overview-writing-history-v2_006.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Forteresse de Van, Turquie                                      |
+| Tablette administrative cunéiforme, Mésopotamie (Syrie)                                     |
 
 |![](/links/overview-writing-history-v2_007.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Évolution des idéogrammes en formes abstraites         |
 
 # -3200: Hiéroglyphes
 L’écriture égyptienne utilise des symboles encore figuratifs.
   
 |![](/links/overview-writing-history-v2_008.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Forteresse de Van, Turquie                                      |
+| Plaque d'ivoire de Ménès, Égypte                                      |
 
 |![](/links/overview-writing-history-v2_009.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Forteresse de Van, Turquie                                      |
+| Les hiéroglyphes étaient utilisés de trois manières: en tant qu'idéogrammes qui représentent un mot désignant un objet représenté visuellement par le hiéroglyphe, en tant que phonogrammes désignant des sons, ou en tant que déterminatifs qui fournissent des indices sur le sens sans écrire directement les sons.                                     |
 
 # -3000: Systèmes d'écriture phonétique
 Un système d'écriture phonétique représente des sons qui permettent la prononciation des mots d'une langue (correspondance d'abord symbole = son, puis sons = mot, et enfin mot = concept).
@@ -88,31 +88,31 @@ Les alphabets sémitiques sont des systèmes d’écriture qui utilisent princip
 
 |![](/links/overview-writing-history-v2_010.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Inscriptions dans la pierre, Wadi el-Hol, Vallée sur la route de Farshut, Égypte        |
 
 |![](/links/overview-writing-history-v2_011.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Un des plus anciens exemples d'écriture alphabétique phonétique découverts à ce jour         |
 
 # -1600: Canaanite
 
 |![](/links/overview-writing-history-v2_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Frise avec inscription punique (canaanite)       |
 
 |![](/links/overview-writing-history-v2_013.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Alphabet canaanite         |
 
 # -1200: Phénicien
 
 |![](/links/overview-writing-history-v2_014.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Inscriptions dans la pierre, Nora, Sardaigne         |
 
 |![](/links/overview-writing-history-v2_015.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
-| Vache, Femme, Femme au delà des montagnes (esclave)         |
+| Alphabet phénicien         |
 
 # -1100: Alpabet occidental moderne
 L’alphabet grec introduit un système complet qui inclut des symboles pour les voyelles ainsi que pour les consonnes. Chaque symbole représente un son, y compris les voyelles, ce qui permet une transcription plus précise de la langue parlée.
@@ -121,69 +121,69 @@ L’alphabet grec introduit un système complet qui inclut des symboles pour les
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
-|![](/links/overview-writing-history-v2_017.jpg)|
-|:------------------------------------------:|
-| «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
-
 # -1100: Antiquité Grecque
 Les Grecs libèrent l’écriture des contraintes de la représentation. 
 
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Gortyna, Grèce                                        |
 
 |![](/links/overview-writing-history_029.jpg)|
 |:------------------------------------------:|
-|                                        |
+| Écriture boustrophédon: « comme le bœuf tourne en labourant le champ »                                      |
 
 # -800: Etrusques
 Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout en conservant des éléments de l’art et de l’architecture grecs.
 
 |![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
- 
-# -753: Fondation de Rome
+| Cippus Perusinus, près de Pérouse, Italie                                        | Abc                                        |
+
+# -753: Antiquité Romaine
 # 🗂️ Capitales monumentales
-À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
+À mesure que l'Empire Romain est devenue la puissance dominante, il a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
+
+|![](/links/overview-writing-history-v2_017.jpg)|
+|:------------------------------------------:|
+| Généalogie de l'alphabet latin moderne            |
 
 |![](/links/overview-writing-history_031.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Forum, Rome                                        |
 
 |![](/links/overview-writing-history_032.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Capitales monumentales                                        |
 
 |![](/links/overview-writing-history_033.jpg)|
 |:------------------------------------------:|
-| 🔨 Abc                                        |
+| Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre                                        |
 
 # 0 – 476: Empire Romain
 # 🗂️ Onciales
-  Adobe Font Folder 
+  Le script oncial était principalement utilisée pour la copie de textes littéraires, religieux et bibliques sur sur parchemin.
 
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Scribe romain                                        | Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre à des lettres tracées à la plume de roseau (calame).                                        |
   
 # 476: Chute de l’Empire Romain
 
 |![](/links/overview-writing-history_044.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Destruction de Rome                                        |
   
 # 476 – 780: Moyen-Âge
 # Écritures nationales
 
 |![](/links/overview-writing-history_055.jpg)|![](/links/overview-writing-history_047.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Moine dans un scriptorium                                        | Abc                                        |
 
 |![](/links/overview-writing-history_048.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Par souci d’efficacité, les majuscules se transforment en minuscules qui sont plus rapides à tracer                                        |
 
 |![](/links/overview-writing-history_052_bis.jpg)|
 |:------------------------------------------:|
