@@ -22,6 +22,7 @@
 ## Avancées technologiques
 - [Invention de l'alphabet](#incises)
 - [Invention des caractères mobiles](#onciales)
+- [Invention des chiffres occidentaux](#onciales)
 - [Invention de la composition à chaud](#onciales)
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
@@ -367,6 +368,42 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 | Abc                                        | Abc                                        |
 
 |![](/links/overview-writing-history_131.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_136.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_137.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_138.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_141.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_142.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_143.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_145.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_147.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_148.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
   
