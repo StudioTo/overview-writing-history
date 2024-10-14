@@ -397,17 +397,17 @@ Suite aux guerres mondiales, le modernisme cherche à rompre avec les traditions
 # 🗂️ Humanistes
 Capitales romaines + Minuscules carolingiennes
 
-|![](/links/overview-writing-history_136.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
 |![](/links/overview-writing-history_137.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Police corporate d’Edward Johnston pour les transports publics londoniens                                        |
+
+|![](/links/overview-writing-history_136.jpg)|
+|:------------------------------------------:|
+| Station Hammersmith, Londres                                        |
 
 |![](/links/overview-writing-history_138.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| La librairie Douglas Cleverdon avec les lettres peintes par Eric Gill à Bristol (première apparition de la Gill Sans)                                        |
 
 # 1927: Constructivisme
 # 🗂️ Géométriques
@@ -438,63 +438,62 @@ La photo-composition repose la photographie de caractères et leur projection su
 
 # 1960: Style International
 # 🗂️ Néo-Grotesques
-Le style international incarne la volonté de représenter l’information de manière objective et systématique. Chaque élément du design doit avoir une fonction précise et servir le message.
+Le style international incarne la volonté de représenter l’information de manière objective et systématique (grid Systems, couleurs unies, neutralité). Chaque élément du design doit avoir une fonction précise et servir le message. Le dessin des grotesques évolue: uniformisation de la graisse, simplification des formes.
 
 |![](/links/overview-writing-history_145.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Helvetica, Max Miedinger et Eduard Hoffmann pour la fonderie Haas                                        |
 
 |![](/links/overview-writing-history_154.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Univers, Adrian Frutiger (les polices comportent de plus en plus de fontes)                                         |
 
 |![](/links/overview-writing-history_147.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Aéroport Charles de Gaulle                                        |
 
 |![](/links/overview-writing-history_148.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Adrian Frutiger, tests de lisibilité pour l'aéroport Charles de Gaulle à Paris                                      |
 
 |![](/links/overview-writing-history_141.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Métro de New York avant la nouvelle signalétique                                        |
 
 |![](/links/overview-writing-history_142.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| George Salomon envoie une proposition spontanée à l’autorité des transports de NY                                        |
 
 |![](/links/overview-writing-history_143.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
-  
-# 1960 – Aujourd'hui
-  Adobe Font Folder
+| Massimo Vignelli a conçu la signalisation emblématique du métro de New York                                        |
 
-# 1980: ???
+# 1978: Symboles
 # 🗂️ Non-Alphabétiques
+Symboles (pictos, maths)
 
 |![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
 
-# 1980: ???
+# 1988: Super familles
 # 🗂️ Hybrides
 
 |![](/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1980: ???
-# 🛠️ Typographie cathodique
+# 1968: Typographie digitale
+# 🛠️ Typographie cathodique (projection)
+Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne avec des caractères assemblés numériquement (bitmap)
 
 |![](/links/overview-writing-history_166.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Machine Digiset                                        |
 
 |![](/links/overview-writing-history_167.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Digi-Grotesk, première fonte digitale                                        |
 
 |![](/links/overview-writing-history_168.jpg)|
 |:------------------------------------------:|
