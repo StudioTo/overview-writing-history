@@ -478,10 +478,11 @@ Symboles (pictos, maths)
 
 # 1988: Super familles
 # 🗂️ Hybrides
+Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
 
 |![](/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Rotis, Otl Aicher                                        |
 
 # 1968: Typographie digitale
 # 🛠️ Typographie cathodique (projection)
@@ -497,19 +498,19 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 
 |![](/links/overview-writing-history_168.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Fonte bitmap (grille de pixels)                                        |
 
 |![](/links/overview-writing-history_169.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Sélection de fontes bitmap                                        |
 
 |![](/links/overview-writing-history_170.jpg)|![](/links/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (Vecteurs), d'abord utilisées pour l'aérodynamique des voitures                                        |
 
 |![](/links/overview-writing-history_172.jpg)|![](/links/overview-writing-history_172_Image_0002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Fonte bitmap                                        | Fonte vectorielle                                        |
 
 |![](/links/overview-writing-history_173.jpg)|
 |:------------------------------------------:|
