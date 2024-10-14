@@ -234,13 +234,11 @@ L’invention de l’imprimerie par Gutenberg marque le début de la Renaissance
 
 |![](/links/overview-writing-history_065.jpg)|![](/links/overview-writing-history_066.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Biblia Pauperum                                        | La Bible de Gutenberg                                        |
+| Biblia Pauperum (impression bois)                                        | La Bible de Gutenberg (caractères mobiles)                                        |
 
 |![](/links/overview-writing-history_069.jpg)|
-|:------------------------------------------:|
-| Le graveur sculpte un poinçon à l’envers (acier)
-Le poinçon est utilisé pour frapper une matrice (cuivre)
-La matrice est utilisée pour fondre des caractères (alliage de plomb etc.)                                        |
+|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+| Le graveur sculpte un poinçon à l’envers (acier) | Le poinçon est utilisé pour frapper une matrice (cuivre) |La matrice est utilisée pour fondre des caractères (alliage de plomb etc.)                                        |
 
 |![](/links/overview-writing-history_071.jpg)|![](/links/overview-writing-history_070.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
