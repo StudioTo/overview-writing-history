@@ -143,7 +143,8 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
  
-# -753: Fondation de Rome (capitales monumentales)
+# -753: Fondation de Rome
+# Capitales monumentales
 À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
@@ -159,7 +160,8 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | 🔨 Abc                                        |
 
-# 0 - 476: Empire Romain (onciales)
+# 0 – 476: Empire Romain
+# Onciales
   Adobe Font Folder 
 
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
@@ -172,7 +174,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# 476 - 780: Moyen-Âge
+# 476 – 780: Moyen-Âge
   Abc
 
 |![](/links/overview-writing-history_055.jpg)|![](/links/overview-writing-history_047.jpg)|
@@ -187,14 +189,16 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# 780: Charlemagne (minuscule carolingienne)
+# 780: Charlemagne
+# Minuscule carolingienne
   Abc
 
 |![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
-# 1150 - 1450: Gothique (fractures)
+# 1150 – 1450: Gothique
+# Fractures
   Abc 
 
 |![](/links/overview-writing-history_057.jpg)|
@@ -206,7 +210,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
   
 # 1450: Gutemberg
-  Invention des caractères mobiles
+# Caractères mobiles
 
 |![](/links/overview-writing-history_068.jpg)|
 |:------------------------------------------:|
@@ -228,14 +232,14 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
   
-# 1450 - 1600: Renaissance
+# 1450 – 1600: Renaissance
   Adobe Font Folder
 
 |![](/links/overview-writing-history_076.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1450 - 1600: Imprimeurs vénitiens (Humanistes)
+# 1450 – 1600: Imprimeurs vénitiens (Humanistes)
   Adobe Font Folder
 
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
@@ -249,14 +253,14 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|:------------------------------------------:|
 | Chiffres romains                                        | Livre du Calcul de Leonardo Fibonacci (1202)                                        |
 
-# 1450 - 1600: Imprimeurs vénitiens (Cursives, Italiques)
+# 1450 – 1600: Imprimeurs vénitiens (Cursives, Italiques)
 Adobe Font Folder
 
 |![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
 
-# 1450 - 1600: Imprimeurs français (Garaldes)
+# 1450 – 1600: Imprimeurs français (Garaldes)
 Adobe Font Folder
 
 |![](/links/overview-writing-history_081.jpg)|
@@ -267,7 +271,7 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
   
-# 1600 - 1660: Baroque
+# 1600 – 1660: Baroque
   Adobe Font Folder
 
 |![](/links/overview-writing-history_089.jpg)|
@@ -282,7 +286,7 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
   
-# 1660 - 1715: Classicisme
+# 1660 – 1715: Classicisme
   Adobe Font Folder
 
 |![](/links/overview-writing-history_093.jpg)|
@@ -293,7 +297,7 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
   
-# 1760 - 1914: Révolution Industrielle
+# 1760 – 1914: Révolution Industrielle
   Adobe Font Folder
 
 |![](/links/overview-writing-history_099.jpg)|
@@ -329,7 +333,7 @@ Adobe Font Folder
 | Abc                                        |
 
   
-# 1914: Modernisme
+# 1914 – 1945: Modernisme
   Adobe Font Folder
 
 |![](/links/overview-writing-history_121.jpg)|
@@ -392,7 +396,7 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
   
-# 1945 - 1960: Post-Modernisme
+# 1945 – 1960: Post-Modernisme
   Adobe Font Folder
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
@@ -415,7 +419,7 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
   
-# 1960 - Aujourd'hui
+# 1960 – Aujourd'hui
   Adobe Font Folder
 
 |![](/links/overview-writing-history_166.jpg)|
