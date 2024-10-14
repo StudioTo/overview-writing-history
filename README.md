@@ -524,7 +524,7 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | Les polices Variables (OpenType Variable Fonts) contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes | 
 
-# 1978: Symboles
+# 1978: Character-sets étendus
 # 🗂️ Non-Alphabétiques
 Symboles (pictos, maths)
 
