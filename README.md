@@ -137,7 +137,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 
 |![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.png)|
 |:------------------------------------------:|:------------------------------------------:|
-| Cippus Perusinus, près de Pérouse, Italie                                        | Abc                                        |
+| Cippus Perusinus, près de Pérouse, Italie                                        | Évolution du grec au latin                                        |
 
 # -753: Antiquité Romaine
 # 🗂️ Capitales monumentales
@@ -146,7 +146,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 
 |![](/links/overview-writing-history-v2_017.jpg)|
 |:------------------------------------------:|
-| Généalogie de l'alphabet latin moderne            |
+| Généalogie de l'alphabet latin             |
 
 |![](/links/overview-writing-history_031.jpg)|
 |:------------------------------------------:|
@@ -222,26 +222,29 @@ La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne)
   
 # 1450: Gutemberg
 # 🛠️ Caractères mobiles
+L’invention de l’imprimerie par Gutenberg marque le début de la Renaissance en révolutionnant la manière dont le savoir est partagé et conservé en Europe.
 
 |![](/links/overview-writing-history_068.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Un «tireur» retire une feuille imprimée de la presse. À sa droite, le «batteur» encre la forme. À l’arrière-plan, des compositeurs composent les caractères.                                        |
 
 |![](/links/overview-writing-history_064.jpg)|![](/links/overview-writing-history_067.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Gravure sur bois (monobloc)                                        | Caractères mobiles (lettres individuelles)                                        |
 
 |![](/links/overview-writing-history_065.jpg)|![](/links/overview-writing-history_066.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Biblia Pauperum                                        | La Bible de Gutenberg                                        |
 
 |![](/links/overview-writing-history_069.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Le graveur sculpte un poinçon à l’envers (acier)
+Le poinçon est utilisé pour frapper une matrice (cuivre)
+La matrice est utilisée pour fondre des caractères (alliage de plomb etc.)                                        |
 
 |![](/links/overview-writing-history_071.jpg)|![](/links/overview-writing-history_070.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Sélection des caractères dans la casse                                        | Justification des lignes dans le composteur                                        |
   
 # 1450 – 1600: Renaissance
 La Renaissance ravive l’intérêt porté à la littérature classique et met en lumière la minuscule carolingienne (modèle de « l’antiqua »).
