@@ -144,7 +144,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 | Abc                                        | Abc                                        |
  
 # -753: Fondation de Rome
-# Capitales monumentales
+# 🗂️ Capitales monumentales
 À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
@@ -161,7 +161,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | 🔨 Abc                                        |
 
 # 0 – 476: Empire Romain
-# Onciales
+# 🗂️ Onciales
   Adobe Font Folder 
 
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
@@ -209,7 +209,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
 
 # 1200 – 1450: Gothique
-# Fractures
+# 🗂️ Fractures
   Abc 
 
 |![](/links/overview-writing-history_057.jpg)|
@@ -221,7 +221,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
   
 # 1450: Gutemberg
-# Caractères mobiles
+# 🛠️ Caractères mobiles
 
 |![](/links/overview-writing-history_068.jpg)|
 |:------------------------------------------:|
@@ -251,7 +251,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
 
 # 1495: Imprimeurs vénitiens
-# Humanistes
+# 🗂️ Humanistes
   Adobe Font Folder
 
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
@@ -259,7 +259,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
 # 1500: Imprimeurs vénitiens
-# Cursives > Italiques
+# 🗂️ Cursives > Italiques
 Adobe Font Folder
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
@@ -267,7 +267,7 @@ Adobe Font Folder
 | Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
 
 # 1540: Imprimeurs français
-# Garaldes
+# 🗂️ Garaldes
 Adobe Font Folder
 
 |![](/links/overview-writing-history_087.jpg)|
@@ -275,7 +275,7 @@ Adobe Font Folder
 | Abc                                        |
   
 # 1600 – 1660: Baroque
-# Réales
+# 🗂️ Réales
   Adobe Font Folder
 
 |![](/links/overview-writing-history_089.jpg)|
@@ -291,7 +291,7 @@ Adobe Font Folder
 | Abc                                        |
   
 # 1660 – 1715: Classicisme
-# Didones
+# 🗂️ Didones
   Adobe Font Folder
 
 |![](/links/overview-writing-history_093.jpg)|
@@ -310,7 +310,7 @@ Adobe Font Folder
 | Abc                                        |
 
 # 1808: Grands corps d'impression
-# Expressives
+# 🗂️ Expressives
 
 |![](/links/overview-writing-history_112.jpg)|
 |:------------------------------------------:|
@@ -329,7 +329,7 @@ Adobe Font Folder
 | Rounded                                        |
 
 # 1820: Les unes de journeaux
-# Mécanes
+# 🗂️ Mécanes
 
 |![](/links/overview-writing-history-v3_003.jpg)|
 |:------------------------------------------:|
@@ -340,7 +340,7 @@ Adobe Font Folder
 | Abc                                        |
 
 # 1829: Machine à écrire
-# Monospaces
+# 🗂️ Monospaces
 
 |![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -350,8 +350,8 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1830: ???
-# Grotesques
+# 1830: Sans-Sérifs
+# 🗂️ Grotesques
 
 |![](/links/overview-writing-history_124.jpg)|
 |:------------------------------------------:|
@@ -365,7 +365,8 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1880: Composition à chaud
+# 1880: 
+# 🛠️ Composition à chaud
 Abc
 
 |![](/links/overview-writing-history_099.jpg)|
@@ -384,7 +385,7 @@ Abc
 | Abc                                        |
 
 # 1916: Redécouverte des capitales romaines
-# Humanistes
+# 🗂️ Humanistes
 
 |![](/links/overview-writing-history_136.jpg)|
 |:------------------------------------------:|
@@ -399,7 +400,7 @@ Abc
 | Abc                                        |
 
 # 1927: Constructivisme
-# Géométriques
+# 🗂️ Géométriques
 
 |![](/links/overview-writing-history_129.jpg)|![](/links/overview-writing-history_130.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -412,7 +413,8 @@ Abc
 # 1945 – 1960: Post-Modernisme
   Adobe Font Folder
 
-# 1950: Photo-Composition
+# 1950:
+# 🛠️ Photo-Composition
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -423,7 +425,7 @@ Abc
 | Abc                                        |
 
 # 1960: Style International
-# Néo-Grotesques
+# 🗂️ Néo-Grotesques
 
 |![](/links/overview-writing-history_145.jpg)|
 |:------------------------------------------:|
@@ -456,13 +458,22 @@ Abc
 # 1960 – Aujourd'hui
   Adobe Font Folder
 
+# 1980: ???
+# 🗂️ Non-Alphabétiques
+
 |![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
+# 1980: ???
+# 🗂️ Hybrides
+
 |![](/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+# 1980: ???
+# 🛠️ Typographie cathodique
 
 |![](/links/overview-writing-history_166.jpg)|
 |:------------------------------------------:|
