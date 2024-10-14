@@ -197,12 +197,16 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
-# 1200: Mathématiciens (Chiffres occidentaux)
+# 1200: Chiffres occidentaux
   Les chiffres proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
 
 |![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
+| Chiffres romains en usage jusqu'alors                                        | Humaniste cursive imprimée                                        |
+
+|![](/links/overview-writing-history_081.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
 
 # 1200 – 1450: Gothique
 # Fractures
@@ -246,32 +250,32 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1495: Imprimeurs vénitiens (Humanistes)
+# 1495: Imprimeurs vénitiens
+# Humanistes
   Adobe Font Folder
 
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
-# 1500: Imprimeurs vénitiens (Cursives > Italiques)
+# 1500: Imprimeurs vénitiens
+# Cursives > Italiques
 Adobe Font Folder
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
 
-# 1540: Imprimeurs français (Garaldes)
+# 1540: Imprimeurs français
+# Garaldes
 Adobe Font Folder
-
-|![](/links/overview-writing-history_081.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
 
 |![](/links/overview-writing-history_087.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
   
 # 1600 – 1660: Baroque
+# Réales
   Adobe Font Folder
 
 |![](/links/overview-writing-history_089.jpg)|
@@ -287,6 +291,7 @@ Adobe Font Folder
 | Abc                                        |
   
 # 1660 – 1715: Classicisme
+# Didones
   Adobe Font Folder
 
 |![](/links/overview-writing-history_093.jpg)|
@@ -298,15 +303,25 @@ Adobe Font Folder
 | Abc                                        |
   
 # 1760 – 1914: Révolution Industrielle
-  Adobe Font Folder
+  Abc
 
-|![](/links/overview-writing-history_099.jpg)|
+|![](/links/overview-writing-history_098.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
-|![](/links/overview-writing-history_101.jpg)|
+# 1843: Presses rotatives
+# Mécanes
+
+|![](/links/overview-writing-history-v3_003.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+|![](/links/overview-writing-history_102.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+# 1860: Machine à écrire
+# Monospaces
 
 |![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -315,6 +330,9 @@ Adobe Font Folder
 |![](/links/overview-writing-history_108.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+# 1880: ???
+# Expressives
 
 |![](/links/overview-writing-history_112.jpg)|
 |:------------------------------------------:|
@@ -330,6 +348,17 @@ Adobe Font Folder
 
 |![](/links/overview-writing-history_117.jpg)|
 |:------------------------------------------:|
+| Rounded                                        |
+
+# 1880: Composition à chaud
+Abc
+
+|![](/links/overview-writing-history_099.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_101.jpg)|
+|:------------------------------------------:|
 | Abc                                        |
 
   
@@ -339,6 +368,9 @@ Adobe Font Folder
 |![](/links/overview-writing-history_121.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+# 1880: ???
+# Grotesques
 
 |![](/links/overview-writing-history_124.jpg)|
 |:------------------------------------------:|
