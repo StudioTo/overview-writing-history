@@ -125,6 +125,8 @@ L’alphabet grec introduit un système complet qui inclut des symboles pour les
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
+# -1100: Antiquité Grecque
+
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
