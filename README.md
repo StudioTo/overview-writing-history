@@ -193,7 +193,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 # Minuscule carolingienne
   Standardisation de l’écriture visant améliorer la communication à travers l’Empire franc (lettres bien formées + espaces entre les mots = grande lisibilité).
 
-|![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
+|![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_053.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Charlemagne qui réforme l'écriture et la grammaire                                        | Ductus de la minuscule carolingienne                                         |
 
