@@ -308,14 +308,17 @@ Premier empire français: les techniques d’impression deviennet plus précises
 | Didone utilisée pour imprimer le code civil                                        |
   
 # 1760 – 1914: Révolution Industrielle
-Grâce à des innovations technologiques, on passe d'une économie agraire et artisanale à une économie industrielle (mécanisation de la production, travail dans les usines).
+Grâce à des innovations technologiques, on passe d'une économie agraire et artisanale à une économie industrielle (mécanisation de la production, travail dans les usines). 
 
 |![](/links/overview-writing-history-v3_005.png)|
 |:------------------------------------------:|
-| Abc                                        |
+| Rupture entre le travail de la terre et le travail à l'usine                                        |
 
 # 1808: Grands corps d'impression
 # 🗂️ Expressives
+Pendant les premiers siècles de l'imprimerie, les caractères d'affichage n'existaient généralement pas. L’apparition du format affiche et la généralisation de la signalétique ont favorisé l'apparition de nouvelles formes de lettres (désormais réalisables grâce aux nouvelles techniques d'impression).
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
 
 |![](/links/overview-writing-history_112.jpg)|
 |:------------------------------------------:|
@@ -334,15 +337,16 @@ Grâce à des innovations technologiques, on passe d'une économie agraire et ar
 | Rounded                                        |
 
 # 1820: Les unes de journeaux
-# 🗂️ Mécanes
+# 🗂️ Mécanes (Slab-Sérifs)
+Les slabs-sérifs deviennent populaires suite à la campagne d'égypte de Napoléon. De plus, les empattement rectangulaires réagissent bien à la technique d'impression de l'époque.
 
-|![](/links/overview-writing-history-v3_003.jpg)|
+|![](/links/overview-writing-history-v3_003.png)|
 |:------------------------------------------:|
-| Abc                                        |
+| Presse rotatives                                        |
 
 |![](/links/overview-writing-history_102.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Titres de journaux                                        |
 
 # 1829: Machine à écrire
 # 🗂️ Monospaces
