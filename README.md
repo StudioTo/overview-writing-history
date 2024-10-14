@@ -135,7 +135,7 @@ Les Grecs libèrent l’écriture des contraintes de la représentation.
 # -800: Etrusques
 Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout en conservant des éléments de l’art et de l’architecture grecs.
 
-|![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.jpg)|
+|![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | Cippus Perusinus, près de Pérouse, Italie                                        | Abc                                        |
 
@@ -250,7 +250,7 @@ La Renaissance ravive l’intérêt porté à la littérature classique et met e
 |:------------------------------------------:|
 | Renaissance à Venise                                        |
 
-|![](/links/overview-writing-history_076.jpg)|
+|![](/links/overview-writing-history-v3_004.png)|
 |:------------------------------------------:|
 | Minuscules humanistes: retour aux formes arrondies                                        |
 
