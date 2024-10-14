@@ -321,6 +321,31 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |![](/links/overview-writing-history_101.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+|![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_108.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_112.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_113.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_117.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
   
 # XIXe: Modernisme
   Adobe Font Folder
