@@ -188,18 +188,14 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
   
 # 780: Charlemagne
-  Adobe Font Folder  
+  Abc
 
 |![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
-  
-# Xe
-  Adobe Font Folder  
-# XIe: 
-  Adobe Font Folder  
-# XIIe: Gothique
-  Adobe Font Folder
+
+# 1150 - 1450: Gothique
+  Abc 
 
 |![](/links/overview-writing-history_057.jpg)|
 |:------------------------------------------:|
@@ -209,9 +205,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# XIIIe
-  Adobe Font Folder
-# XIVe
+# 1450: Gutemberg
   Invention des caractères mobiles
 
 |![](/links/overview-writing-history_068.jpg)|
@@ -234,7 +228,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
   
-# XVe: Renaissance
+# 1450 - 1600: Renaissance
   Adobe Font Folder
 
 |![](/links/overview-writing-history_076.jpg)|
@@ -261,7 +255,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# XVIe: Baroque
+# 1600 - 1660: Baroque
   Adobe Font Folder
 
 |![](/links/overview-writing-history_089.jpg)|
@@ -276,7 +270,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# XVIIe: Classicisme
+# 1660 - 1715: Classicisme
   Adobe Font Folder
 
 |![](/links/overview-writing-history_093.jpg)|
@@ -287,7 +281,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# XVIIIe: Révolution Industrielle
+# 1760 - 1914: Révolution Industrielle
   Adobe Font Folder
 
 |![](/links/overview-writing-history_099.jpg)|
@@ -323,7 +317,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
 
   
-# XIXe: Modernisme
+# 1914: Modernisme
   Adobe Font Folder
 
 |![](/links/overview-writing-history_121.jpg)|
@@ -386,7 +380,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# XXe: Post-Modernisme
+# 1945 - 1960: Post-Modernisme
   Adobe Font Folder
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
@@ -409,7 +403,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# XIe
+# 1960 - Aujourd'hui
   Adobe Font Folder
 
 |![](/links/overview-writing-history_166.jpg)|
@@ -462,6 +456,3 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |![](/links/overview-writing-history_178.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
-
-# Sources
-  abc
