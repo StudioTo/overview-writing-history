@@ -144,10 +144,10 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 | Abc                                        | Abc                                        |
 
 # Ier: Antiquitié Romaine
-À mesure que Rome est devenue une puissance dominante, elle a synthétisé ces influences pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire de l’architecture et de l’art.
+À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
   
-# 753: Fondation de Rome
-Les premières traces de capitales monumentales romaines (🗂️ Incises), en particulier celles qui ont marqué le développement architectural et urbain de Rome
+# 753: Capitales Monumentales (Incises)
+La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
 |![](/links/overview-writing-history_031.jpg)|
 |:------------------------------------------:|
