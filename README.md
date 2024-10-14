@@ -506,7 +506,7 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 
 |![](/links/overview-writing-history_170.jpg)|![](/links/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (Vecteurs), d'abord utilisées pour l'aérodynamique des voitures                                        |
+| Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (vecteurs), d'abord utilisées pour l'aérodynamique des voitures                                        |
 
 |![](/links/overview-writing-history_172.jpg)|![](/links/overview-writing-history_172_Image_0002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -514,27 +514,27 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 
 |![](/links/overview-writing-history_173.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Variations créées à partir d’un seul tracé vectoriel                                        |
 
 |![](/links/overview-writing-history_174.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
 |![](/links/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| En raison de sa flexibilité concernant la gestion des divers comportements typographiques (substitutions) et de tous les différents systèmes d’écriture l’OpenType (OTF) s’impose comme le format de référence sur les plates-formes informatiques                                        |
 
 |![](/links/overview-writing-history_176.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Les polices Multiple Masters contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes                                        |
 
 |![](/links/overview-writing-history_177.jpg)|
 |:------------------------------------------:|
-| Abc 
+| Les polices Variables (OpenType Variable Fonts) contiennent plusieurs masters dans un fichier unique
+et permettent d’interpoler entre ces masters le long de différents axes | 
 
 # Les formes du futur?
-  abc|
 
 |![](/links/overview-writing-history_178.jpg)|
 |:------------------------------------------:|
-| Abc                                        |
+| Adrian Frutiger, Quelles seront les formes de demain?                                        |
