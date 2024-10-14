@@ -228,7 +228,20 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 # XIIIe
   Adobe Font Folder
 # XIVe
-  Adobe Font Folder
+  Invention des caractères mobiles
+
+|![](/links/overview-writing-history_068.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_065.jpg)|![](/links/overview-writing-history_066.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_064.jpg)|![](/links/overview-writing-history_067.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+  
 # XVe: Renaissance
   Adobe Font Folder
 # XVIe: Baroque
