@@ -238,11 +238,11 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Abc                                        |
 
-|![](/links/overview-writing-history_064.jpg)|![](/links/overview-writing-history_067.jpg)|
+|![](/links/overview-writing-history_065.jpg)|![](/links/overview-writing-history_066.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
-|![](/links/overview-writing-history_065.jpg)|![](/links/overview-writing-history_066.jpg)|
+|![](/links/overview-writing-history_064.jpg)|![](/links/overview-writing-history_067.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
@@ -250,7 +250,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Abc                                        |
 
-|![](/links/overview-writing-history_070.jpg)|![](/links/overview-writing-history_071.jpg)|
+|![](/links/overview-writing-history_071.jpg)|![](/links/overview-writing-history_070.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
   
