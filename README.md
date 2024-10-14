@@ -468,22 +468,6 @@ Le style international incarne la volonté de représenter l’information de ma
 |:------------------------------------------:|
 | Massimo Vignelli a conçu la signalisation emblématique du métro de New York                                        |
 
-# 1978: Symboles
-# 🗂️ Non-Alphabétiques
-Symboles (pictos, maths)
-
-|![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
-|:------------------------------------------:|:------------------------------------------:|
-| Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
-
-# 1988: Super familles
-# 🗂️ Hybrides
-Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
-
-|![](/links/overview-writing-history_161.jpg)|
-|:------------------------------------------:|
-| Rotis, Otl Aicher                                        |
-
 # 1968: Typographie digitale
 # 🛠️ Typographie cathodique (projection)
 Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne avec des caractères assemblés numériquement (bitmap)
@@ -540,6 +524,22 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | Les polices Variables (OpenType Variable Fonts) contiennent plusieurs masters dans un fichier unique
 et permettent d’interpoler entre ces masters le long de différents axes | 
+
+# 1978: Symboles
+# 🗂️ Non-Alphabétiques
+Symboles (pictos, maths)
+
+|![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
+
+# 1988: Super familles
+# 🗂️ Hybrides
+Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
+
+|![](/links/overview-writing-history_161.jpg)|
+|:------------------------------------------:|
+| Rotis, Otl Aicher                                        |
 
 # Les formes du futur?
 
