@@ -175,7 +175,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Abc                                        |
   
 # 476 – 780: Moyen-Âge
-  Abc
+# Écritures nationales
 
 |![](/links/overview-writing-history_055.jpg)|![](/links/overview-writing-history_047.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -197,7 +197,14 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
-# 1150 – 1450: Gothique
+# 1200: Mathématiciens (Chiffres occidentaux)
+  Les chiffres proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
+
+|![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
+
+# 1200 – 1450: Gothique
 # Fractures
   Abc 
 
@@ -239,28 +246,21 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1450 – 1600: Imprimeurs vénitiens (Humanistes)
+# 1495: Imprimeurs vénitiens (Humanistes)
   Adobe Font Folder
 
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
-# 1202???: Mathématiciens (Chiffres occidentaux)
-  Les chiffres proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
+# 1500: Imprimeurs vénitiens (Cursives > Italiques)
+Adobe Font Folder
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Chiffres romains                                        | Livre du Calcul de Leonardo Fibonacci (1202)                                        |
-
-# 1450 – 1600: Imprimeurs vénitiens (Cursives, Italiques)
-Adobe Font Folder
-
-|![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
-|:------------------------------------------:|:------------------------------------------:|
 | Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
 
-# 1450 – 1600: Imprimeurs français (Garaldes)
+# 1540: Imprimeurs français (Garaldes)
 Adobe Font Folder
 
 |![](/links/overview-writing-history_081.jpg)|
