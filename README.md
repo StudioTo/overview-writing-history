@@ -334,7 +334,7 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Abc                                        |
 
-|![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
+|![](/links/overview-writing-history_115.jpg)|![](/links/overview-writing-history_114.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
