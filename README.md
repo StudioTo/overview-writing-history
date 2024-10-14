@@ -138,13 +138,9 @@ Les Grecs libèrent l’écriture des contraintes de la représentation.
 
 # -800: Etrusques
 
-|![](/links/overview-writing-history_028.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_029.jpg)|
-|:------------------------------------------:|
-|                                        |
+|![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
 
 # Ier: Antiquitié Romaine
   Adobe Font Folder  
