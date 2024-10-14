@@ -171,10 +171,6 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |![](/links/overview-writing-history_044.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
-
-|![](/links/overview-writing-history_052_bis.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
   
 # 476 - 780: Moyen-Âge
   Abc
@@ -186,15 +182,12 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |![](/links/overview-writing-history_048.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
-  
-# VIIe
-  Adobe Font Folder  
 
-
+|![](/links/overview-writing-history_052_bis.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
   
-# VIIIe: Roman
-  Adobe Font Folder  
-# IXe
+# 780: Charlemagne
   Adobe Font Folder  
 
 |![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
