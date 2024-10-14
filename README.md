@@ -137,15 +137,17 @@ Les Grecs libèrent l’écriture des contraintes de la représentation.
 |                                        |
 
 # -800: Etrusques
+Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout en conservant des éléments de l’art et de l’architecture grecs.
 
 |![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
 # Ier: Antiquitié Romaine
-  Adobe Font Folder  
+À mesure que Rome est devenue une puissance dominante, elle a synthétisé ces influences pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire de l’architecture et de l’art.
   
-# 🗂️ Incises
+# 753: Fondation de Rome
+Les premières traces de capitales monumentales romaines (🗂️ Incises), en particulier celles qui ont marqué le développement architectural et urbain de Rome
 
 |![](/links/overview-writing-history_031.jpg)|
 |:------------------------------------------:|
