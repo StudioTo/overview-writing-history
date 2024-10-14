@@ -1,5 +1,5 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
-  Timeline de l'histoire de l'écriture
+  Timeline visuelle de l'histoire de l'écriture
 
 ## Classification Historique
 - [Incises](#incises)
@@ -28,7 +28,7 @@
 - [Invention de la photo-composition](#onciales)
 - [Invention de la typographie digitale](#cursives)
 
-# -64'000: ### Représentations symboliques
+# -64'000: Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
 
 # -38'800: Pictographes
@@ -143,7 +143,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
  
-# -753: Fondation de Rome
+# -753: Fondation de Rome (capitales monumentales)
 À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
@@ -159,7 +159,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | 🔨 Abc                                        |
 
-# 0 - 476: Empire Romain
+# 0 - 476: Empire Romain (onciales)
   Adobe Font Folder 
 
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
@@ -187,14 +187,14 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# 780: Charlemagne
+# 780: Charlemagne (minuscule carolingienne)
   Abc
 
 |![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
 
-# 1150 - 1450: Gothique
+# 1150 - 1450: Gothique (fractures)
   Abc 
 
 |![](/links/overview-writing-history_057.jpg)|
@@ -235,17 +235,29 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
 
+# 1450 - 1600: Imprimeurs vénitiens (Humanistes)
+  Adobe Font Folder
+
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
+
+# 1202???: Mathématiciens (Chiffres occidentaux)
+  Les chiffres proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Chiffres romains                                        | Livre du Calcul de Leonardo Fibonacci (1202)                                        |
+
+# 1450 - 1600: Imprimeurs vénitiens (Cursives, Italiques)
+Adobe Font Folder
 
 |![](/links/overview-writing-history_080.jpg)|![](/links/overview-writing-history_082.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+| Humaniste cursive calligraphiée                                        | Humaniste cursive imprimée                                        |
+
+# 1450 - 1600: Imprimeurs français (Garaldes)
+Adobe Font Folder
 
 |![](/links/overview-writing-history_081.jpg)|
 |:------------------------------------------:|
