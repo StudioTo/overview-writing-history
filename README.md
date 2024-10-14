@@ -142,11 +142,9 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 |![](/links/overview-writing-history-v3_001.jpg)|![](/links/overview-writing-history-v3_002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
-
-# Ier: Antiquitié Romaine
+ 
+# -753: Fondation de Rome (Incises)
 À mesure que Rome est devenue une puissance dominante, elle a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
-  
-# 753: Capitales Monumentales (Incises)
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
 |![](/links/overview-writing-history_031.jpg)|
@@ -161,20 +159,14 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | 🔨 Abc                                        |
 
-# IIe
+# 0 - 476: Empire Romain
   Adobe Font Folder 
 
 |![](/links/overview-writing-history_039.jpg)|![](/links/overview-writing-history_043.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Abc                                        | Abc                                        |
   
-# IIIe
-  Adobe Font Folder  
-# IVe
-  Adobe Font Folder  
-# Ve
-#
-  476: Chute de l’Empire Romain
+# 476: Chute de l’Empire Romain
 
 |![](/links/overview-writing-history_044.jpg)|
 |:------------------------------------------:|
@@ -184,7 +176,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 |:------------------------------------------:|
 | Abc                                        |
   
-# VIe: Moyen-Âge
+# 476 - 780: Moyen-Âge
   Abc
 
 |![](/links/overview-writing-history_055.jpg)|![](/links/overview-writing-history_047.jpg)|
