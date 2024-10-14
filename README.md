@@ -407,6 +407,9 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |![](/links/overview-writing-history_148.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+  
+# XXe: Post-Modernisme
+  Adobe Font Folder
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -428,11 +431,56 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 |:------------------------------------------:|
 | Abc                                        |
   
-# XXe: Post-Modernisme
-  Adobe Font Folder
 # XIe
   Adobe Font Folder
 
+|![](/links/overview-writing-history_166.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_167.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_168.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_169.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_170.jpg)|![](/links/overview-writing-history_171.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_172.jpg)|![](/links/overview-writing-history_172_Image_0002.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_173.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_174.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_175.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_176.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_177.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_178.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
 
 # Sources
   abc
