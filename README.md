@@ -309,29 +309,7 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1843: Presses rotatives
-# Mécanes
-
-|![](/links/overview-writing-history-v3_003.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_102.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-# 1860: Machine à écrire
-# Monospaces
-
-|![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
-|:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
-
-|![](/links/overview-writing-history_108.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-# 1880: ???
+# 1808: Grands corps d'impression
 # Expressives
 
 |![](/links/overview-writing-history_112.jpg)|
@@ -350,26 +328,29 @@ Adobe Font Folder
 |:------------------------------------------:|
 | Rounded                                        |
 
-# 1880: Composition à chaud
-Abc
+# 1820: Les unes de journeaux
+# Mécanes
 
-|![](/links/overview-writing-history_099.jpg)|
+|![](/links/overview-writing-history-v3_003.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
-|![](/links/overview-writing-history_101.jpg)|
+|![](/links/overview-writing-history_102.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
-  
-# 1914 – 1945: Modernisme
-  Adobe Font Folder
+# 1829: Machine à écrire
+# Monospaces
 
-|![](/links/overview-writing-history_121.jpg)|
+|![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_108.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
-# 1880: ???
+# 1830: ???
 # Grotesques
 
 |![](/links/overview-writing-history_124.jpg)|
@@ -384,13 +365,26 @@ Abc
 |:------------------------------------------:|
 | Abc                                        |
 
-|![](/links/overview-writing-history_129.jpg)|![](/links/overview-writing-history_130.jpg)|
-|:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
+# 1880: Composition à chaud
+Abc
 
-|![](/links/overview-writing-history_131.jpg)|
+|![](/links/overview-writing-history_099.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
+
+|![](/links/overview-writing-history_101.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+# 1914 – 1945: Modernisme
+  Adobe Font Folder
+
+|![](/links/overview-writing-history_121.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+# 1916: Redécouverte des capitales romaines
+# Humanistes
 
 |![](/links/overview-writing-history_136.jpg)|
 |:------------------------------------------:|
@@ -401,6 +395,49 @@ Abc
 | Abc                                        |
 
 |![](/links/overview-writing-history_138.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+# 1927: Constructivisme
+# Géométriques
+
+|![](/links/overview-writing-history_129.jpg)|![](/links/overview-writing-history_130.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_131.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+# 1945 – 1960: Post-Modernisme
+  Adobe Font Folder
+
+# 1950: Photo-Composition
+
+|![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
+
+|![](/links/overview-writing-history_153.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+# 1960: Style International
+# Néo-Grotesques
+
+|![](/links/overview-writing-history_145.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_154.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_147.jpg)|
+|:------------------------------------------:|
+| Abc                                        |
+
+|![](/links/overview-writing-history_148.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
 
@@ -415,33 +452,9 @@ Abc
 |![](/links/overview-writing-history_143.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
-
-|![](/links/overview-writing-history_145.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_147.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_148.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
   
-# 1945 – 1960: Post-Modernisme
+# 1960 – Aujourd'hui
   Adobe Font Folder
-
-|![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
-|:------------------------------------------:|:------------------------------------------:|
-| Abc                                        | Abc                                        |
-
-|![](/links/overview-writing-history_153.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_154.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
 
 |![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -450,9 +463,6 @@ Abc
 |![](/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
-  
-# 1960 – Aujourd'hui
-  Adobe Font Folder
 
 |![](/links/overview-writing-history_166.jpg)|
 |:------------------------------------------:|
