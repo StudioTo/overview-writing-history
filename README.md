@@ -496,6 +496,8 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
 
+# 🛠️ Typographie bitmap (pixels)
+
 |![](/links/overview-writing-history_168.jpg)|
 |:------------------------------------------:|
 | Fonte bitmap (grille de pixels)                                        |
@@ -503,6 +505,8 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |![](/links/overview-writing-history_169.jpg)|
 |:------------------------------------------:|
 | Sélection de fontes bitmap                                        |
+
+# 🛠️ Typographie postscript (vecteurs)
 
 |![](/links/overview-writing-history_170.jpg)|![](/links/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -520,9 +524,13 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
+# 🛠️ Typographie opentype
+
 |![](/links/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
 | En raison de sa flexibilité concernant la gestion des divers comportements typographiques (substitutions) et de tous les différents systèmes d’écriture l’OpenType (OTF) s’impose comme le format de référence sur les plates-formes informatiques                                        |
+
+# 🛠️ Typographie variable
 
 |![](/links/overview-writing-history_176.jpg)|
 |:------------------------------------------:|
