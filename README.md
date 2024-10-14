@@ -127,10 +127,6 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 ## -1100: Antiquité Grecque
   Les Grecs libèrent l’écriture alphabétique des contraintes de la représentation.
 
-|![](/links/overview-writing-history_027.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
 |![](/links/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
 | Abc                                        |
@@ -147,10 +143,6 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
   Adobe Font Folder  
 # Ier: Empire Romain
   Adobe Font Folder  
-
-|![](/links/overview-writing-history_042.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
   
 # 🗂️ Incises
 
