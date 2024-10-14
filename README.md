@@ -208,13 +208,9 @@ Les systèmes de notation qui ont fondés l’écriture occidentale se sont simp
 # IXe
   Adobe Font Folder  
 
-|![](/links/overview-writing-history_052.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
-
-|![](/links/overview-writing-history_053.jpg)|
-|:------------------------------------------:|
-| Abc                                        |
+|![](/links/overview-writing-history_052.jpg)|![](/links/overview-writing-history_53.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Abc                                        | Abc                                        |
   
 # Xe
   Adobe Font Folder  
