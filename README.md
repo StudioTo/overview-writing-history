@@ -374,7 +374,7 @@ Le terme « grotesque » viendrait de l'italien « grottesco », qui signifie «
 |:------------------------------------------:|
 | Affiche publicitaire pour un saut en parachute dans les jardins de la Rotunda, Dublin                                        |
 
-# 1880: 
+# 1880: Automatisation
 # 🛠️ Composition à chaud
 L'inventeur américain Ottmar Mergenthaler, parfois appelé « le second Gutenberg », se lasse des efforts nécessaires à la composition manuelle et cherche à mettre au point une méthode de composition mécanique. Il invente la machine Linotype qui permet de fondre des alliages métalliques pour créer des lignes de type en un seul bloc, permettant une impression rapide et efficace en utilisant un système de composition automatisé.
 
