@@ -11,7 +11,7 @@
 - [Réales](#%EF%B8%8F-réales)
 - [Didones](#%EF%B8%8F-didones)
 - [Mécanes](#%EF%B8%8F-mécanes)
-- [Monos](#%EF%B8%8F-monos)
+- [Monospaces](#%EF%B8%8F-monospaces)
 - [Expressives](#%EF%B8%8F-expressives)
 - [Grotesques](#%EF%B8%8F-grotesques)
 - [Géométriques](#%EF%B8%8F-géométriques)
@@ -21,13 +21,14 @@
 - [Hybrides](#%EF%B8%8F-hybrides)
 
 ## 🛠️ Avancées technologiques
-- [Invention de l’alphabet](#incises)
-- [Invention des chiffres latins](#1202:-chiffres-latins)
-- [Invention des caractères mobiles](#onciales)
-- [Invention de l’italique](#l’italique)
-- [Invention de la composition à chaud](#composition-à-chaud)
-- [Invention de la photo-composition](#photo-composition)
-- [Invention de la typographie digitale](#typographie-digitale)
+- [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
+- [Invention des chiffres latins](#1202-chiffres-latins)
+- [Invention de l’italique](#1500-litalique)
+- [Invention des caractères mobiles](#1450-Gutemberg)
+- [Invention de la machine à écrire](#1829-machine-à-écrire)
+- [Invention de la composition à chaud](#1880-automatisation)
+- [Invention de la photo-composition](#1950-développements-daprès-guerre)
+- [Invention de la typographie digitale](#1968--aujourdhui-typographie-digitale)
 
 # -64'000: Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
@@ -336,8 +337,8 @@ Pendant les premiers siècles de l'imprimerie, les caractères d'affichage n'exi
 | Rounded                                        |
 
 # 1820: Les titres de journeaux
-# 🗂️ Mécanes (Slab-Sérifs)
-Les slabs-sérifs deviennent populaires suite à la campagne d'égypte de Napoléon. De plus, les empattement rectangulaires réagissent bien à la technique d'impression de l'époque.
+# 🗂️ Mécanes
+Les slabs-sérifs (mécanes) deviennent populaires suite à la campagne d'égypte de Napoléon. De plus, les empattement rectangulaires réagissent bien à la technique d'impression de l'époque.
 
 |![](/links/overview-writing-history-v3_003.png)|
 |:------------------------------------------:|
