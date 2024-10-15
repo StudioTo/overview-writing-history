@@ -472,10 +472,12 @@ Le style international incarne la volonté de représenter l’information de ma
 
 
 # 1968: Projection cathodique
+# 🛠️ Digital (caractères assemblés numériquement)
+Le Digiset étant une opération entièrement digitale, elle a permis aux dessinateurs de caractères de partager leur travail sur des disquettes, mais aussi d'y revenir à tout moment pour y apporter des modifications.
 
 |![](/links/overview-writing-history_166.jpg)|
 |:------------------------------------------:|
-| Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne avec des caractères assemblés numériquement (bitmap)                                       |
+| Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne en répartissant les points sombres d'une forme sur une grille préexistante                                    |
 
 |![](/links/overview-writing-history_167.jpg)|
 |:------------------------------------------:|
