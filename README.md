@@ -470,7 +470,7 @@ Le style international incarne la volonté de représenter l’information de ma
 
 # 1968 — Aujourd’hui: Typographie digitale
 
-# 1968: Numérique
+# 1965: Numérique
 # 🛠️ Caractères assemblés numériquement
 Le Digiset étant une opération entièrement digitale, elle a permis aux dessinateurs de caractères de partager leur travail sur des disquettes, mais aussi d'y revenir à tout moment pour y apporter des modifications.
 
@@ -481,6 +481,22 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 |![](/links/overview-writing-history_167.jpg)|
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
+
+# 1965: Numérisation
+# 🛠️ OCR (Optical Character Recognition)
+La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire / enregistrer sous forme d'informations numériques.
+
+|![](/links/overview-writing-history-v3_006.jpg)|
+|:------------------------------------------:|
+| Le service postal américain introduit la reconnaissance optique de caractères pour trier le courrier                                       |
+
+|![](/links/overview-writing-history-v3_007.jpg)|
+|:------------------------------------------:|
+| Les lettres sont automatiquement triées par destination                                       |
+
+|![](/links/overview-writing-history-v3_008.jpg)|![](/links/overview-writing-history-v3_009.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Reconnaissance de la lettre par décomposition en modules simples                                        | Traduction de la forme dans une grille matricielle                                       |
 
 # 1970: Grille de pixels
 # 🛠️ Bitmap
@@ -493,14 +509,6 @@ Le système matriciel utilise une combinaison de pixels pour créer des caractè
 |![](/links/overview-writing-history_169.jpg)|
 |:------------------------------------------:|
 | Sélection de fontes bitmap                                        |
-
-# 1974: Reconnaissance optique
-# 🛠️ OCR (Optical Character Recognition)
-La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire sous forme d'informations numériques. Cette technologie a eu de nombreuses applications et a permis de stocker et de partager des polices de caractères par des moyens numériques.
-
-|![](/links/overview-writing-history_000.jpg)|
-|:------------------------------------------:|
-| Abc                                       |
 
 # 1980: Vecteurs
 # 🛠️ Postscript
