@@ -472,11 +472,10 @@ Le style international incarne la volonté de représenter l’information de ma
 
 
 # 1968: Projection cathodique
-Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne avec des caractères assemblés numériquement (bitmap)
 
 |![](/links/overview-writing-history_166.jpg)|
 |:------------------------------------------:|
-| Machine Digiset                                        |
+| Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne avec des caractères assemblés numériquement (bitmap)                                       |
 
 |![](/links/overview-writing-history_167.jpg)|
 |:------------------------------------------:|
