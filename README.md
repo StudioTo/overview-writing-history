@@ -140,7 +140,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 | Cippus Perusinus, près de Pérouse, Italie                                        | Évolution du grec au latin                                        |
 
 # -753: Antiquité Romaine
-# 🗂️ Capitales monumentales
+# 🗂️ Incises
 À mesure que l'Empire Romain est devenue la puissance dominante, il a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
 La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
