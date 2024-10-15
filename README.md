@@ -17,7 +17,7 @@
 - [Géométriques](#%EF%B8%8F-géométriques)
 - [Humanistes](#%EF%B8%8F-humanistes)
 - [Néo-Grotesques](#%EF%B8%8F-néo-grotesques)
-- [Non-Alphabétique](#%EF%B8%8F-non-alphabétique)
+- [Non-Alphabétiques](#%EF%B8%8F-non-alphabétiques)
 - [Hybrides](#%EF%B8%8F-hybrides)
 
 ## 🛠️ Avancées technologiques
