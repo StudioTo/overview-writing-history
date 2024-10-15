@@ -482,14 +482,6 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
 
-# 1970: Reconnaissance optique
-# 🛠️ OCR
-La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire sous forme d'informations numériques. Cette technologie a eu de nombreuses applications et a permis de stocker et de partager des polices de caractères par des moyens numériques.
-
-|![](/links/overview-writing-history_000.jpg)|
-|:------------------------------------------:|
-| Abc                                       |
-
 # 1970: Grille de pixels
 # 🛠️ Bitmap
 Le système matriciel utilise une combinaison de pixels pour créer des caractères individuels. Bien que des fichiers distincts pour chaque taille et résolution soit nécessaires (coûteux en mémoire à l'époque), les bitmaps ont grandement facilité l'utilisation et le transfert des fontes.
@@ -501,6 +493,14 @@ Le système matriciel utilise une combinaison de pixels pour créer des caractè
 |![](/links/overview-writing-history_169.jpg)|
 |:------------------------------------------:|
 | Sélection de fontes bitmap                                        |
+
+# 1974: Reconnaissance optique
+# 🛠️ OCR (Optical Character Recognition)
+La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire sous forme d'informations numériques. Cette technologie a eu de nombreuses applications et a permis de stocker et de partager des polices de caractères par des moyens numériques.
+
+|![](/links/overview-writing-history_000.jpg)|
+|:------------------------------------------:|
+| Abc                                       |
 
 # 1980: Vecteurs
 # 🛠️ Postscript
