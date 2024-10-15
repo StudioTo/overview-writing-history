@@ -424,9 +424,9 @@ Construction modulaire avec des formes primaires (carré, rond, triangle)
 # 1945 – 1960: Post-Modernisme
 Le postmodernisme est un mouvement artistique caractérisé par un scepticisme envers les grands récits et idéologies et une tendance à célébrer l’ironie, la pluralité et la déconstruction des normes établies.
 
-# 1950:
+# 1950: Développements d'après-guerre
 # 🛠️ Composition à froid (photo-composition)
-La photo-composition repose la photographie de caractères et leur projection sur un support sensible.
+La photo-composition repose sur la photographie de caractères et leur projection sur un support photo-sensible. Les variantes ultérieures des machines à photocomposer comporte des écrans à tube cathodique pour afficher les caractères déjà numérisés.
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
