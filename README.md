@@ -468,8 +468,10 @@ Le style international incarne la volonté de représenter l’information de ma
 |:------------------------------------------:|
 | Massimo Vignelli a conçu la signalisation emblématique du métro de New York                                        |
 
-# 1968: Typographie digitale
-# 🛠️ Typographie cathodique (projection)
+# 1968 — Aujourd’hui: Typographie digitale
+
+
+# 1968: Projection cathodique
 Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne avec des caractères assemblés numériquement (bitmap)
 
 |![](/links/overview-writing-history_166.jpg)|
@@ -480,7 +482,8 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
 
-# 🛠️ Typographie bitmap (pixels)
+# 1970: Grille de pixels
+# 🛠️ Bitmap
 
 |![](/links/overview-writing-history_168.jpg)|
 |:------------------------------------------:|
@@ -490,7 +493,8 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | Sélection de fontes bitmap                                        |
 
-# 🛠️ Typographie postscript (vecteurs)
+# 1980: Vecteurs
+# 🛠️ Postscript
 
 |![](/links/overview-writing-history_170.jpg)|![](/links/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -508,21 +512,23 @@ Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne av
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
-# 🛠️ Typographie opentype
+# 1991: Interpolations
+# 🛠️ OpenType Variable Fonts
+
+|![](/links/overview-writing-history_176.jpg)|
+|:------------------------------------------:|
+| Les polices Multiple Masters (ancêtre des variables modernes) contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes                                        |
+
+|![](/links/overview-writing-history_177.jpg)|
+|:------------------------------------------:|
+| Les polices variables contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes | 
+
+# 1996: TrueType (Apple) + Type 1 PostScript (Adobe)
+# 🛠️ Opentype
 
 |![](/links/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
 | En raison de sa flexibilité concernant la gestion des divers comportements typographiques (substitutions) et de tous les différents systèmes d’écriture l’OpenType (OTF) s’impose comme le format de référence sur les plates-formes informatiques                                        |
-
-# 🛠️ Typographie variable
-
-|![](/links/overview-writing-history_176.jpg)|
-|:------------------------------------------:|
-| Les polices Multiple Masters contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes                                        |
-
-|![](/links/overview-writing-history_177.jpg)|
-|:------------------------------------------:|
-| Les polices Variables (OpenType Variable Fonts) contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes | 
 
 # 1978: Character-sets étendus
 # 🗂️ Non-Alphabétiques
