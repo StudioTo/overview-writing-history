@@ -350,7 +350,7 @@ Les slabs-sérifs deviennent populaires suite à la campagne d'égypte de Napol�
 # 🗂️ Monospaces
 Sur une machine à écrire, chaque lettre occupe la même largeur (chasse fixe) afin de simplifier le mécanisme.
 
-|![](/links/overview-writing-history_106.jpg)|![](/links/overview-writing-history_107.jpg)|
+|![](/links/overview-writing-history_106.png)|![](/links/overview-writing-history_107.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | La boule à écrire, Rasmus Malling-Hansen                                        | La machine à écrire Sholes et Glidden                                        |
 
