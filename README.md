@@ -376,7 +376,7 @@ Le terme « grotesque » viendrait de l'italien « grottesco », qui signifie «
 
 # 1880: 
 # 🛠️ Composition à chaud
-La composition à chaud consiste à fondre des alliages métalliques pour créer des lignes de type en un seul bloc, permettant une impression rapide et efficace en utilisant un système de composition automatisé.
+L'inventeur américain Ottmar Mergenthaler, parfois appelé « le second Gutenberg », se lasse des efforts nécessaires à la composition manuelle et cherche à mettre au point une méthode de composition mécanique. Il invente la machine Linotype qui permet de fondre des alliages métalliques pour créer des lignes de type en un seul bloc, permettant une impression rapide et efficace en utilisant un système de composition automatisé.
 
 |![](/links/overview-writing-history_099.jpg)|
 |:------------------------------------------:|
@@ -470,9 +470,8 @@ Le style international incarne la volonté de représenter l’information de ma
 
 # 1968 — Aujourd’hui: Typographie digitale
 
-
-# 1968: Projection cathodique
-# 🛠️ Digital (caractères assemblés numériquement)
+# 1968: Numérique
+# 🛠️ Caractères assemblés numériquement
 Le Digiset étant une opération entièrement digitale, elle a permis aux dessinateurs de caractères de partager leur travail sur des disquettes, mais aussi d'y revenir à tout moment pour y apporter des modifications.
 
 |![](/links/overview-writing-history_166.jpg)|
@@ -483,8 +482,17 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
 
+# 1970: Reconnaissance optique des caractères
+# 🛠️ OCR
+La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire sous forme d'informations numériques. Cette technologie a eu de nombreuses applications et a permis de stocker et de partager des polices de caractères par des moyens numériques.
+
+|![](/links/overview-writing-history_000.jpg)|
+|:------------------------------------------:|
+| Abc                                       |
+
 # 1970: Grille de pixels
 # 🛠️ Bitmap
+Le système matriciel utilise une combinaison de pixels pour créer des caractères individuels. Bien que des fichiers distincts pour chaque taille et résolution soit nécessaires (coûteux en mémoire à l'époque), les bitmaps ont grandement facilité l'utilisation et le transfert des fontes.
 
 |![](/links/overview-writing-history_168.jpg)|
 |:------------------------------------------:|
@@ -496,6 +504,7 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 
 # 1980: Vecteurs
 # 🛠️ Postscript
+La grilles de pixels finalement est remplacée par des tracés vectoriels, qui permettent aux concepteurs de mettre à l'échelle n'importe quel symbole sans perte de qualité.
 
 |![](/links/overview-writing-history_170.jpg)|![](/links/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -513,23 +522,13 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
-# 1991: Interpolations
-# 🛠️ OpenType Variable Fonts
-
-|![](/links/overview-writing-history_176.jpg)|
-|:------------------------------------------:|
-| Les polices Multiple Masters (ancêtre des variables modernes) contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes                                        |
-
-|![](/links/overview-writing-history_177.jpg)|
-|:------------------------------------------:|
-| Les polices variables contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes | 
-
 # 1996: TrueType (Apple) + Type 1 PostScript (Adobe)
 # 🛠️ Opentype
+Le format OpenType est un format de police de caractères unifié qui combine les technologies de TrueType et PostScript, offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
 
 |![](/links/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
-| En raison de sa flexibilité concernant la gestion des divers comportements typographiques (substitutions) et de tous les différents systèmes d’écriture l’OpenType (OTF) s’impose comme le format de référence sur les plates-formes informatiques                                        |
+| En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
 
 # 1978: Character-sets étendus
 # 🗂️ Non-Alphabétiques
@@ -546,6 +545,18 @@ Famille hybrides qui comprennent notamment des fontes avec et sans empatements, 
 |![](/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Rotis, Otl Aicher                                        |
+
+# 2016: Interpolations
+# 🛠️ OpenType Variable Fonts
+Les polices variables contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes
+
+|![](/links/overview-writing-history_176.jpg)|
+|:------------------------------------------:|
+| Les polices Multiple Masters (ancêtre des variables modernes)                                         |
+
+|![](/links/overview-writing-history_177.jpg)|
+|:------------------------------------------:|
+| Les polices variables contemporaines permettent une gamme de variation plus large et sont adoptées comme standard par l'industrie | 
 
 # Les formes du futur?
 
