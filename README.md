@@ -522,9 +522,9 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
-# 1996: TrueType (Apple) + Type 1 PostScript (Adobe)
+# 1996: TrueType + PostScript
 # 🛠️ Opentype
-Le format OpenType est un format de police de caractères unifié qui combine les technologies de TrueType et PostScript, offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
+Le format OpenType est un format de police de caractères unifié qui combine les technologies TrueType (Apple) et Type 1 PostScript (Adobe), offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
 
 |![](/links/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
