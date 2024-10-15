@@ -2,7 +2,7 @@
   Timeline visuelle de l'histoire de l'écriture
 
 ## 🗂️ Classification Historique
-- [Incises](#incises)
+- [Incises](#%EF%B8%8F-incises)
 - [Onciales](#onciales)
 - [Cursives](#cursives)
 - [Gothiques](#gothiques)
