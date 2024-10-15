@@ -482,7 +482,7 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
 
-# 1970: Reconnaissance optique des caractères
+# 1970: Reconnaissance optique
 # 🛠️ OCR
 La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire sous forme d'informations numériques. Cette technologie a eu de nombreuses applications et a permis de stocker et de partager des polices de caractères par des moyens numériques.
 
