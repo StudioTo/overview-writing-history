@@ -486,15 +486,15 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 # 🛠️ OCR (Optical Character Recognition)
 La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire / enregistrer sous forme d'informations numériques.
 
-|![](/links/overview-writing-history-v3_006.jpg)|
+|![](/links/overview-writing-history-v3_006.png)|
 |:------------------------------------------:|
 | Le service postal américain introduit la reconnaissance optique de caractères pour trier le courrier                                       |
 
-|![](/links/overview-writing-history-v3_007.jpg)|
+|![](/links/overview-writing-history-v3_007.png)|
 |:------------------------------------------:|
 | Les lettres sont automatiquement triées par destination                                       |
 
-|![](/links/overview-writing-history-v3_008.jpg)|![](/links/overview-writing-history-v3_009.jpg)|
+|![](/links/overview-writing-history-v3_008.png)|![](/links/overview-writing-history-v3_009.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | Reconnaissance de la lettre par décomposition en modules simples                                        | Traduction de la forme dans une grille matricielle                                       |
 
