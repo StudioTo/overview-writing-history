@@ -209,7 +209,7 @@ La Fondation de Rome marque le développement architectural et urbain de Rome. L
 | Généalogie des chiffres latins                                        |
 
 # 1200 – 1450: Gothique
-# 🗂️ Fractures
+# 🗂️ Gothiques
 La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne), les arrondis des lettres commencent à se briser (calligraphie « fracturée »).
 
 |![](/links/overview-writing-history_057.jpg)|
