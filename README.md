@@ -1,7 +1,7 @@
 # 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
   Timeline visuelle de l'histoire de l'écriture
 
-## Classification Historique
+## 🗂️ Classification Historique
 - [Incises](#incises)
 - [Onciales](#onciales)
 - [Cursives](#cursives)
@@ -20,7 +20,7 @@
 - [Hybrides](#hybrides)
 - [Non-Alphabétique](#non-alphabétique)
 
-## Avancées technologiques
+## 🛠️ Avancées technologiques
 - [Invention de l'alphabet](#incises)
 - [Invention des caractères mobiles](#onciales)
 - [Invention des chiffres occidentaux](#onciales)
