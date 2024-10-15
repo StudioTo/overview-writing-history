@@ -494,7 +494,7 @@ La technologie de reconnaissance optique des caractères permet d'identifier les
 |:------------------------------------------:|
 | Les lettres sont automatiquement triées par destination                                       |
 
-|![](/links/overview-writing-history-v3_008.png)|![](/links/overview-writing-history-v3_009.png)|
+|![](/links/overview-writing-history-v3_009.png)|![](/links/overview-writing-history-v3_008.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | Reconnaissance de la lettre par décomposition en modules simples                                        | Traduction de la forme dans une grille matricielle                                       |
 
