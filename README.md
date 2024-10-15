@@ -22,11 +22,12 @@
 
 ## 🛠️ Avancées technologiques
 - [Invention de l'alphabet](#incises)
+- [Invention des chiffres latins](#onciales)
 - [Invention des caractères mobiles](#onciales)
-- [Invention des chiffres occidentaux](#onciales)
-- [Invention de la composition à chaud](#onciales)
-- [Invention de la photo-composition](#onciales)
-- [Invention de la typographie digitale](#cursives)
+- [Invention de l'italique](#l’italique)
+- [Invention de la composition à chaud](#composition-à-chaud)
+- [Invention de la photo-composition](#photo-composition)
+- [Invention de la typographie digitale](#typographie-digitale)
 
 # -64'000: Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
