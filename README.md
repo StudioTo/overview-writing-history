@@ -21,10 +21,10 @@
 - [Hybrides](#%EF%B8%8F-hybrides)
 
 ## 🛠️ Avancées technologiques
-- [Invention de l'alphabet](#incises)
-- [Invention des chiffres latins](#onciales)
+- [Invention de l’alphabet](#incises)
+- [Invention des chiffres latins](#1202:-chiffres-latins)
 - [Invention des caractères mobiles](#onciales)
-- [Invention de l'italique](#l’italique)
+- [Invention de l’italique](#l’italique)
 - [Invention de la composition à chaud](#composition-à-chaud)
 - [Invention de la photo-composition](#photo-composition)
 - [Invention de la typographie digitale](#typographie-digitale)
@@ -264,9 +264,9 @@ Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caract
 |:------------------------------------------:|:------------------------------------------:|
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
-# 1500: L'italique
+# 1500: L’italique
 # 🗂️ Cursives
-Apparition de l'italique, inspirée de l’écriture utilisée par la chancellerie italienne (relations commerciales).
+Apparition de l’italique, inspirée de l’écriture utilisée par la chancellerie italienne (relations commerciales).
 
 |![](/links/overview-writing-history_084.jpg)|![](/links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
