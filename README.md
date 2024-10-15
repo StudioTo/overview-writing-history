@@ -256,7 +256,7 @@ La Renaissance ravive l’intérêt porté à la littérature classique et met e
 | Minuscules humanistes: retour aux formes arrondies                                        |
 
 # 1495: Imprimeurs Vénitiens
-# 🗂️ Humanistes
+# 🗂️ Humanes
 Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caractères de métal.
 
 |![](/links/overview-writing-history_077.jpg)|![](/links/overview-writing-history_078.jpg)|
