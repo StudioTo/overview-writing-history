@@ -432,7 +432,7 @@ La photo-composition repose sur la photographie de caractères et leur projectio
 
 |![](/links/overview-writing-history_151.jpg)|![](/links/overview-writing-history_152.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Opérateur d'une machine de photo-composition                                        | La Graphic Page 1000 est une technique de mise en page typographique qui utilise un format standardisé de 1000 points                                        |
+| Opérateur d'une machine de photo-composition                                        | La Graphic Page 1000 est un outil de mise en page typographique qui utilise un format standardisé de 1000 points                                        |
 
 |![](/links/overview-writing-history_153.jpg)|
 |:------------------------------------------:|
