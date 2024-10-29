@@ -520,14 +520,6 @@ Symboles (pictos, maths)
 |:------------------------------------------:|:------------------------------------------:|
 | Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
 
-# 1988: Super familles
-# 🗂️ Hybrides
-Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
-
-|![](/links/overview-writing-history_161.jpg)|
-|:------------------------------------------:|
-| Rotis, Otl Aicher                                        |
-
 # 1980: Vecteurs
 # 🛠️ Postscript
 La grilles de pixels finalement est remplacée par des tracés vectoriels, qui permettent aux concepteurs de mettre à l'échelle n'importe quel symbole sans perte de qualité.
@@ -547,6 +539,14 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 |![](/links/overview-writing-history_174.jpg)|
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
+
+# 1988: Super familles
+# 🗂️ Hybrides
+Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
+
+|![](/links/overview-writing-history_161.jpg)|
+|:------------------------------------------:|
+| Rotis, Otl Aicher                                        |
 
 # 1996: TrueType + PostScript
 # 🛠️ Opentype
