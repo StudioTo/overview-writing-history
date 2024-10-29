@@ -512,6 +512,22 @@ Le système matriciel utilise une combinaison de pixels pour créer des caractè
 |:------------------------------------------:|
 | Sélection de fontes bitmap                                        |
 
+# 1978: Character-sets étendus
+# 🗂️ Non-Alphabétiques
+Symboles (pictos, maths)
+
+|![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
+|:------------------------------------------:|:------------------------------------------:|
+| Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
+
+# 1988: Super familles
+# 🗂️ Hybrides
+Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
+
+|![](/links/overview-writing-history_161.jpg)|
+|:------------------------------------------:|
+| Rotis, Otl Aicher                                        |
+
 # 1980: Vecteurs
 # 🛠️ Postscript
 La grilles de pixels finalement est remplacée par des tracés vectoriels, qui permettent aux concepteurs de mettre à l'échelle n'importe quel symbole sans perte de qualité.
@@ -539,22 +555,6 @@ Le format OpenType est un format de police de caractères unifié qui combine le
 |![](/links/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
 | En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
-
-# 1978: Character-sets étendus
-# 🗂️ Non-Alphabétiques
-Symboles (pictos, maths)
-
-|![](/links/overview-writing-history_159.jpg)|![](/links/overview-writing-history_157.jpg)|
-|:------------------------------------------:|:------------------------------------------:|
-| Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
-
-# 1988: Super familles
-# 🗂️ Hybrides
-Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
-
-|![](/links/overview-writing-history_161.jpg)|
-|:------------------------------------------:|
-| Rotis, Otl Aicher                                        |
 
 # 2016: Interpolations
 # 🛠️ OpenType Variable Fonts
